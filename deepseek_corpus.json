@@ -1,0 +1,145 @@
+{
+  "conversations": [
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check your local weather app!",
+        "It looks pleasant outside according to recent reports.",
+        "Weather conditions vary by location - where are you checking for?"
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options on Android, or Settings > General > Reset on iPhone.",
+        "The exact steps depend on your device model - would you like OS-specific instructions?"
+      ]
+    ],
+    [
+      "Tell me a joke!",
+      [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "What do you call fake spaghetti? An impasta!"
+      ]
+    ],
+    [
+      "What's 15% of 200?",
+      [
+        "That would be 30!",
+        "The answer is 30. Did you need the calculation steps?"
+      ]
+    ],
+    [
+      "Recommend a good movie",
+      [
+        "Inception is a great mind-bending thriller!",
+        "For comedy, try The Grand Budapest Hotel - it's hilarious!"
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, melt butter in pan, cook on low heat while stirring!",
+        "For fluffier eggs: whisk with a splash of milk before cooking."
+      ]
+    ],
+    [
+      "What time is it?",
+      [
+        "I don't have real-time access, but your device clock should show it!",
+        "You can check the time in your system tray or phone status bar."
+      ]
+    ],
+    [
+      "Explain blockchain simply",
+      [
+        "It's like a digital ledger that records transactions across many computers.",
+        "Think of it as a chain of data blocks that's nearly impossible to alter."
+      ]
+    ],
+    [
+      "Best way to learn Spanish?",
+      [
+        "Try apps like Duolingo or Babbel for daily practice!",
+        "Immersion works best - watch Spanish shows with subtitles!"
+      ]
+    ],
+    [
+      "How many continents are there?",
+      [
+        "There are 7 continents: Africa, Antarctica, Asia, Europe, North America, South America, Australia.",
+        "Some count 6 by combining Europe and Asia as Eurasia."
+      ]
+    ],
+    [
+      "What causes rain?",
+      [
+        "Water evaporates, forms clouds, then falls as rain when droplets get heavy.",
+        "It's part of the water cycle - moisture condenses and precipitates!"
+      ]
+    ],
+    [
+      "How to screenshot on Windows?",
+      [
+        "Press PrtScn key, or Win+Shift+S for selective screenshots!",
+        "Alt+PrtScn captures just the active window."
+      ]
+    ],
+    [
+      "Who invented the telephone?",
+      [
+        "Alexander Graham Bell is credited with inventing the telephone in 1876.",
+        "There were actually several inventors working on similar devices at the time!"
+      ]
+    ],
+    [
+      "Healthy breakfast ideas?",
+      [
+        "Try Greek yogurt with berries and granola!",
+        "Avocado toast with eggs is quick and nutritious!"
+      ]
+    ],
+    [
+      "Solve 3x + 5 = 20",
+      [
+        "x equals 5! (Subtract 5 from both sides, then divide by 3)",
+        "The solution is x = 5. Need more math help?"
+      ]
+    ],
+    [
+      "Difference between VR and AR?",
+      [
+        "VR is fully immersive, AR overlays digital elements on real world.",
+        "Virtual Reality replaces your environment, Augmented Reality adds to it."
+      ]
+    ],
+    [
+      "How to stop procrastinating?",
+      [
+        "Try the Pomodoro technique: work 25 mins, break 5 mins!",
+        "Break tasks into smaller steps - they feel less overwhelming!"
+      ]
+    ],
+    [
+      "Capital of Australia?",
+      [
+        "Canberra is the capital of Australia!",
+        "Many think it's Sydney, but it's actually Canberra!"
+      ]
+    ],
+    [
+      "Best smartphone in 2023?",
+      [
+        "iPhone 15 Pro and Samsung Galaxy S23 are top contenders!",
+        "Depends on your needs - Android or iOS preference?"
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "Try the simple Four-in-Hand knot: cross wide end over narrow, then under and through!",
+        "YouTube has great visual tutorials - want me to find one?"
+      ]
+    ]
+  ]
+}
