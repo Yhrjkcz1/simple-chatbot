@@ -1,0 +1,4289 @@
+{
+  "conversations": [
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check a weather app!",
+        "It looks pleasant outside based on general seasonal patterns.",
+        "I recommend checking your local forecast for accurate updates."
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options.",
+        "The exact steps vary by brand - check your manufacturer's website.",
+        "Make sure to back up your data before resetting!"
+      ]
+    ],
+    [
+      "Tell me a joke.",
+      [
+        "Why don't skeletons fight each other? They don't have the guts!",
+        "What's orange and sounds like a parrot? A carrot!",
+        "I invented a new word: plagiarism."
+      ]
+    ],
+    [
+      "What's 15% of 200?",
+      [
+        "That would be 30.",
+        "The calculation gives you 30.",
+        "It's 30 - just multiply 200 by 0.15!"
+      ]
+    ],
+    [
+      "Recommend a good movie.",
+      [
+        "The Shawshank Redemption is a classic!",
+        "Try Everything Everywhere All At Once for something recent.",
+        "What genre do you prefer? I can suggest based on that."
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, melt butter in pan, cook while stirring gently.",
+        "Add a splash of milk to your eggs for fluffier results!",
+        "Season with salt and pepper after cooking for best texture."
+      ]
+    ],
+    [
+      "What is AI?",
+      [
+        "Artificial Intelligence simulates human thinking in machines.",
+        "It's computer systems performing tasks that normally require human intelligence.",
+        "AI includes everything from chatbots to self-driving cars!"
+      ]
+    ],
+    [
+      "How many days until Christmas?",
+      [
+        "I can't count days in real-time, but you can check a calendar!",
+        "It depends on today's date - want help calculating?",
+        "Christmas is always December 25th - you can count from today!"
+      ]
+    ],
+    [
+      "Explain quantum computing.",
+      [
+        "It uses qubits that can be 1 and 0 simultaneously.",
+        "Quantum computers solve complex problems faster than classical ones.",
+        "It's based on quantum mechanics principles like superposition."
+      ]
+    ],
+    [
+      "Best way to learn Spanish?",
+      [
+        "Try apps like Duolingo for daily practice.",
+        "Immersion through travel or media consumption works well!",
+        "Combine classes with conversation practice for best results."
+      ]
+    ],
+    [
+      "What causes earthquakes?",
+      [
+        "Tectonic plates shifting suddenly along fault lines.",
+        "Movement in Earth's crust releases seismic energy.",
+        "Most occur at plate boundaries where stress builds up."
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "Try the Four-in-Hand knot - simplest for beginners!",
+        "YouTube has great visual tutorials for different knots.",
+        "Start with the wide end longer, cross over, then loop through."
+      ]
+    ],
+    [
+      "When was the internet invented?",
+      [
+        "ARPANET, the precursor, launched in 1969.",
+        "Modern internet developed throughout the 1970s-80s.",
+        "Tim Berners-Lee invented the World Wide Web in 1989."
+      ]
+    ],
+    [
+      "Healthy breakfast ideas?",
+      [
+        "Greek yogurt with berries and granola!",
+        "Avocado toast on whole grain bread.",
+        "Oatmeal with nuts and banana slices."
+      ]
+    ],
+    [
+      "How does GPS work?",
+      [
+        "Satellites transmit signals that your device triangulates.",
+        "It calculates position based on timing from multiple satellites.",
+        "At least 4 satellites are needed for accurate location."
+      ]
+    ],
+    [
+      "Tips for better sleep?",
+      [
+        "Keep a consistent bedtime schedule.",
+        "Avoid screens 1 hour before bed.",
+        "Make your bedroom cool, dark and quiet."
+      ]
+    ],
+    [
+      "What's the capital of Australia?",
+      [
+        "Canberra is the capital city.",
+        "Many think it's Sydney, but it's actually Canberra!",
+        "Canberra became capital in 1927 as a compromise."
+      ]
+    ],
+    [
+      "How to stop procrastinating?",
+      [
+        "Break tasks into smaller, manageable steps.",
+        "Use the Pomodoro technique (25-min work sessions).",
+        "Remove distractions and set clear deadlines."
+      ]
+    ],
+    [
+      "Difference between VR and AR?",
+      [
+        "VR is fully immersive, AR overlays digital on real world.",
+        "VR needs a headset, AR works through phones/glasses.",
+        "Pokémon Go is AR, while Oculus is VR."
+      ]
+    ],
+    [
+      "Best smartphone for photography?",
+      [
+        "Latest iPhones have excellent cameras.",
+        "Google Pixel phones have great computational photography.",
+        "Consider Samsung Galaxy S Ultra series for versatility."
+      ]
+    ],
+    [
+      "How to reduce stress?",
+      [
+        "Practice deep breathing exercises.",
+        "Regular physical activity helps manage stress.",
+        "Try mindfulness meditation for 10 minutes daily."
+      ]
+    ],
+    [
+      "Who painted the Mona Lisa?",
+      [
+        "Leonardo da Vinci created this masterpiece.",
+        "It was painted by da Vinci in the early 1500s.",
+        "The famous smile belongs to da Vinci's Lisa Gherardini."
+      ]
+    ],
+    [
+      "How to unclog a drain?",
+      [
+        "Try a plunger first for simple clogs.",
+        "Pour baking soda + vinegar, then hot water.",
+        "For tough clogs, a drain snake might be needed."
+      ]
+    ],
+    [
+      "What is blockchain?",
+      [
+        "A decentralized digital ledger technology.",
+        "It securely records transactions across many computers.",
+        "Best known as the technology behind cryptocurrencies."
+      ]
+    ],
+    [
+      "How to improve Wi-Fi signal?",
+      [
+        "Move your router to a central location.",
+        "Reduce interference from other electronics.",
+        "Consider a Wi-Fi extender if you have dead zones."
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "I don't have real-time weather data, but you can check a weather app!",
+        "It looks pleasant outside based on general forecasts.",
+        "Sorry, I can't access live weather updates at the moment."
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options.",
+        "The exact steps depend on your phone model - check the manual.",
+        "Hold power + volume down for 10 seconds on many Android devices."
+      ]
+    ],
+    [
+      "What's a good movie to watch?",
+      [
+        "The Shawshank Redemption is a classic!",
+        "Try Everything Everywhere All At Once for something recent.",
+        "What genre do you prefer? I can suggest based on that."
+      ]
+    ],
+    [
+      "Solve 5x + 3 = 18",
+      [
+        "x = 3",
+        "Subtract 3 from both sides first: 5x = 15",
+        "The solution is x equals three."
+      ]
+    ],
+    [
+      "Best way to learn cooking?",
+      [
+        "Start with simple recipes and practice regularly.",
+        "Take a beginner cooking class in your area.",
+        "Watch cooking tutorials on YouTube for visual learning."
+      ]
+    ],
+    [
+      "How to improve my sleep?",
+      [
+        "Maintain a consistent sleep schedule.",
+        "Avoid screens 1 hour before bedtime.",
+        "Try relaxation techniques like deep breathing."
+      ]
+    ],
+    [
+      "What is blockchain technology?",
+      [
+        "It's a decentralized digital ledger system.",
+        "A chain of blocks containing transaction records.",
+        "The technology behind cryptocurrencies like Bitcoin."
+      ]
+    ],
+    [
+      "Recommend a good book",
+      [
+        "Sapiens by Yuval Noah Harari is fascinating!",
+        "For fiction, try Project Hail Mary by Andy Weir.",
+        "What genre interests you? I can tailor recommendations."
+      ]
+    ],
+    [
+      "How to make coffee without a machine?",
+      [
+        "Use a French press if you have one.",
+        "Try the pour-over method with a filter.",
+        "You can boil grounds in water then strain (cowboy coffee)."
+      ]
+    ],
+    [
+      "What's the capital of Australia?",
+      [
+        "Canberra",
+        "It's Canberra, not Sydney!",
+        "The capital is Canberra since 1913."
+      ]
+    ],
+    [
+      "How to reduce stress at work?",
+      [
+        "Take regular short breaks throughout the day.",
+        "Prioritize tasks and focus on one thing at a time.",
+        "Practice mindfulness or quick meditation exercises."
+      ]
+    ],
+    [
+      "Explain quantum computing",
+      [
+        "It uses qubits that can be 0 and 1 simultaneously.",
+        "A new computing paradigm using quantum mechanics.",
+        "Much faster for certain problems than classical computers."
+      ]
+    ],
+    [
+      "Best free photo editing software?",
+      [
+        "GIMP is a powerful open-source option.",
+        "Try Canva for simple edits online.",
+        "Photopea works in browsers like Photoshop."
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "There are many methods - try the Four-in-Hand first.",
+        "YouTube has great visual tutorials for this!",
+        "The Windsor knot is classic for formal occasions."
+      ]
+    ],
+    [
+      "What causes the seasons?",
+      [
+        "Earth's tilt and orbit around the sun.",
+        "The 23.5° axial tilt changes sunlight distribution.",
+        "Different hemispheres get more/less direct sunlight."
+      ]
+    ],
+    [
+      "How to start investing?",
+      [
+        "Begin with index funds for diversification.",
+        "Consider a robo-advisor for beginners.",
+        "Learn first, start small with what you can afford."
+      ]
+    ],
+    [
+      "What's the Pythagorean theorem?",
+      [
+        "a² + b² = c² for right triangles.",
+        "The square of the hypotenuse equals...",
+        "Relates the sides of a right-angled triangle."
+      ]
+    ],
+    [
+      "How to improve English speaking?",
+      [
+        "Practice daily with language exchange partners.",
+        "Watch English shows with subtitles.",
+        "Don't fear mistakes - just keep speaking!"
+      ]
+    ],
+    [
+      "What is AI?",
+      [
+        "Artificial Intelligence mimics human cognition.",
+        "Machines performing tasks requiring human intelligence.",
+        "Computer systems that can learn and problem-solve."
+      ]
+    ],
+    [
+      "How to unclog a drain?",
+      [
+        "Try a plunger or drain snake first.",
+        "Baking soda + vinegar can help for mild clogs.",
+        "For tough clogs, you might need a plumber."
+      ]
+    ],
+    [
+      "Best way to save money?",
+      [
+        "Track expenses to identify savings opportunities.",
+        "Automate transfers to savings accounts.",
+        "Cook at home more often to reduce food costs."
+      ]
+    ],
+    [
+      "How does GPS work?",
+      [
+        "Satellites transmit timing signals to receivers.",
+        "Your device calculates position from multiple satellites.",
+        "At least 4 satellites needed for accurate location."
+      ]
+    ],
+    [
+      "What's the meaning of life?",
+      [
+        "That's philosophy! Many different answers exist.",
+        "To find purpose and happiness in your own way.",
+        "42 (according to Hitchhiker's Guide to the Galaxy)."
+      ]
+    ],
+    [
+      "How to change a car tire?",
+      [
+        "Loosen lug nuts before jacking up car.",
+        "Use the jack at the proper lift point.",
+        "Tighten in star pattern when replacing."
+      ]
+    ],
+    [
+      "What is photosynthesis?",
+      [
+        "Plants convert sunlight to chemical energy.",
+        "CO2 + water + light → glucose + oxygen.",
+        "The process that sustains plant life."
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check a weather app!",
+        "It looks pleasant outside based on general seasonal patterns.",
+        "Sorry, I can't access real-time weather information."
+      ]
+    ],
+    [
+      "How do I reset my router?",
+      [
+        "Unplug it for 30 seconds and plug it back in.",
+        "Check for a small reset button on the back of the device.",
+        "Refer to your router's manual for model-specific instructions."
+      ]
+    ],
+    [
+      "What's a good movie to watch?",
+      [
+        "The Shawshank Redemption is a classic choice!",
+        "Try Everything Everywhere All At Once for something unique.",
+        "Pulp Fiction never gets old if you like crime dramas."
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, cook on low heat while stirring constantly.",
+        "Add a splash of milk before whisking for fluffier eggs.",
+        "Try Gordon Ramsay's method with butter and crème fraîche!"
+      ]
+    ],
+    [
+      "What is 15% of 200?",
+      [
+        "That would be 30.",
+        "The answer is 30.",
+        "15% of 200 equals 30."
+      ]
+    ],
+    [
+      "Best way to learn programming?",
+      [
+        "Start with Python - it's beginner-friendly!",
+        "Try freeCodeCamp's interactive lessons online.",
+        "Build small projects to learn by doing."
+      ]
+    ],
+    [
+      "How to stop procrastinating?",
+      [
+        "Break tasks into smaller, manageable steps.",
+        "Use the Pomodoro technique (25-minute focus sessions).",
+        "Remove distractions from your environment first."
+      ]
+    ],
+    [
+      "What time is it in Tokyo right now?",
+      [
+        "I can't tell exact time, but Tokyo is UTC+9.",
+        "Check a world clock website for current time.",
+        "Japan is typically 13-16 hours ahead of US timezones."
+      ]
+    ],
+    [
+      "How many continents are there?",
+      [
+        "7 continents is the most common answer.",
+        "Some systems count 6 (combining Europe/Asia).",
+        "Geologists sometimes use different continent models."
+      ]
+    ],
+    [
+      "Recommend a good book",
+      [
+        "Sapiens by Yuval Noah Harari is fascinating!",
+        "The Martian is great sci-fi if you like space.",
+        "Try Atomic Habits for practical self-improvement."
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "Look up 'four-in-hand knot' for a simple method.",
+        "YouTube has great visual tutorials for this!",
+        "The Windsor knot is more formal but trickier."
+      ]
+    ],
+    [
+      "What's the capital of Canada?",
+      [
+        "Ottawa is Canada's capital city.",
+        "The capital is Ottawa, not Toronto!",
+        "Canada's government sits in Ottawa."
+      ]
+    ],
+    [
+      "How to relieve stress?",
+      [
+        "Deep breathing exercises help many people.",
+        "Going for a walk in nature can be calming.",
+        "Try mindfulness meditation for 5-10 minutes."
+      ]
+    ],
+    [
+      "When was the internet invented?",
+      [
+        "ARPANET, the precursor, launched in 1969.",
+        "Modern internet developed through the 1970s-80s.",
+        "Tim Berners-Lee invented the World Wide Web in 1989."
+      ]
+    ],
+    [
+      "Best pizza toppings?",
+      [
+        "Pepperoni is the classic favorite!",
+        "Try margherita for simple perfection.",
+        "Hawaiian (pineapple) if you're feeling adventurous!"
+      ]
+    ],
+    [
+      "How to say hello in Spanish?",
+      [
+        "¡Hola! is hello in Spanish.",
+        "The greeting is 'Hola'.",
+        "Hello translates to 'Hola' in Spanish."
+      ]
+    ],
+    [
+      "Why is the sky blue?",
+      [
+        "Due to Rayleigh scattering of sunlight.",
+        "Blue light scatters more in our atmosphere.",
+        "It's how sunlight interacts with air molecules."
+      ]
+    ],
+    [
+      "How to screenshot on iPhone?",
+      [
+        "Press side button + volume up simultaneously.",
+        "On older models, use home + power buttons.",
+        "You can also use AssistiveTouch if enabled."
+      ]
+    ],
+    [
+      "What is blockchain?",
+      [
+        "A decentralized digital ledger system.",
+        "Technology behind cryptocurrencies like Bitcoin.",
+        "Chain of blocks containing transaction records."
+      ]
+    ],
+    [
+      "How to cook rice perfectly?",
+      [
+        "Use 1:2 rice-to-water ratio, simmer covered.",
+        "Rinse rice first for better texture.",
+        "Let it steam 10 minutes after cooking."
+      ]
+    ],
+    [
+      "Who painted the Mona Lisa?",
+      [
+        "Leonardo da Vinci created it.",
+        "It's a famous da Vinci masterpiece.",
+        "The artist was Leonardo da Vinci."
+      ]
+    ],
+    [
+      "How to improve my sleep?",
+      [
+        "Keep a consistent sleep schedule.",
+        "Avoid screens 1 hour before bedtime.",
+        "Make your bedroom dark and cool."
+      ]
+    ],
+    [
+      "What is photosynthesis?",
+      [
+        "Plants convert sunlight to energy.",
+        "Process where plants make food from light.",
+        "CO2 + water + light → glucose + oxygen."
+      ]
+    ],
+    [
+      "How to change a lightbulb?",
+      [
+        "Turn off power first for safety!",
+        "Unscrew old bulb, screw in new one.",
+        "Check wattage matches the fixture."
+      ]
+    ],
+    [
+      "Best free video editing software?",
+      [
+        "DaVinci Resolve is powerful and free.",
+        "Try Shotcut for basic editing needs.",
+        "iMovie comes free on Mac devices."
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check your local forecast!",
+        "It looks pleasant outside based on general seasonal patterns.",
+        "I recommend checking a weather app for real-time updates."
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options.",
+        "The exact steps vary by brand - check your manufacturer's website.",
+        "Make sure to back up your data first!"
+      ]
+    ],
+    [
+      "Tell me a joke.",
+      [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "What's orange and sounds like a parrot? A carrot!",
+        "I invented a new word: plagiarism."
+      ]
+    ],
+    [
+      "What's 15% of 200?",
+      [
+        "That would be 30.",
+        "The calculation gives you 30.",
+        "200 x 0.15 = 30."
+      ]
+    ],
+    [
+      "Recommend a good movie.",
+      [
+        "The Shawshank Redemption is a classic!",
+        "Try Everything Everywhere All At Once for something unique.",
+        "Parasite won Best Picture and is excellent."
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, melt butter in pan, cook on low heat while stirring.",
+        "Add a splash of milk before whisking for fluffier eggs.",
+        "Season with salt and pepper at the end for best texture."
+      ]
+    ],
+    [
+      "What is AI?",
+      [
+        "Artificial Intelligence simulates human thinking in machines.",
+        "It's computer systems performing tasks that normally require human intelligence.",
+        "AI includes things like chatbots, image recognition, and self-driving cars."
+      ]
+    ],
+    [
+      "How many continents are there?",
+      [
+        "Most countries teach there are 7 continents.",
+        "Some systems combine Europe and Asia into Eurasia (6 continents).",
+        "The count varies between 5-7 depending on classification."
+      ]
+    ],
+    [
+      "Best way to learn Spanish?",
+      [
+        "Try language apps like Duolingo for daily practice.",
+        "Immersion through travel or conversation groups works well.",
+        "Watch Spanish shows with subtitles to pick up vocabulary."
+      ]
+    ],
+    [
+      "What time is it in Tokyo right now?",
+      [
+        "I don't have live clock data, but Tokyo is typically UTC+9.",
+        "You can check world clock websites for current time.",
+        "Remember Tokyo doesn't observe daylight savings!"
+      ]
+    ],
+    [
+      "How to stop procrastinating?",
+      [
+        "Break tasks into smaller steps to make them less daunting.",
+        "Try the Pomodoro technique: 25 mins work, 5 mins break.",
+        "Remove distractions and set specific deadlines."
+      ]
+    ],
+    [
+      "Who invented the telephone?",
+      [
+        "Alexander Graham Bell is credited with the invention.",
+        "There were actually several inventors working on similar technology.",
+        "The first patent was awarded to Bell in 1876."
+      ]
+    ],
+    [
+      "Healthy breakfast ideas?",
+      [
+        "Greek yogurt with berries and granola is quick and nutritious.",
+        "Avocado toast with a poached egg provides good fats and protein.",
+        "Overnight oats prepared the night before save morning time."
+      ]
+    ],
+    [
+      "Explain blockchain simply.",
+      [
+        "It's a digital ledger that records transactions across many computers.",
+        "Think of it as a chain of blocks containing data that can't be altered.",
+        "It's the technology behind cryptocurrencies like Bitcoin."
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "Try the Four-in-Hand knot - simplest for beginners.",
+        "YouTube has great visual tutorials for different knots.",
+        "The Windsor knot gives a symmetrical, formal look."
+      ]
+    ],
+    [
+      "What causes earthquakes?",
+      [
+        "Movement of tectonic plates along fault lines.",
+        "Sudden release of energy in the Earth's lithosphere.",
+        "Volcanic activity can also trigger earthquakes."
+      ]
+    ],
+    [
+      "Best smartphone under $500?",
+      [
+        "Pixel 7a offers great camera quality at this price.",
+        "Samsung Galaxy A54 has excellent battery life.",
+        "Consider the iPhone SE for iOS users on a budget."
+      ]
+    ],
+    [
+      "How to relieve stress?",
+      [
+        "Deep breathing exercises can help calm your nervous system.",
+        "Physical activity like walking or yoga reduces stress hormones.",
+        "Try mindfulness meditation for 10 minutes daily."
+      ]
+    ],
+    [
+      "When was WWII?",
+      [
+        "1939 to 1945 for most countries.",
+        "The US entered in 1941 after Pearl Harbor.",
+        "Some conflicts in Asia began earlier in the 1930s."
+      ]
+    ],
+    [
+      "Difference between HTTP and HTTPS?",
+      [
+        "HTTPS is secure with encryption, HTTP is not.",
+        "HTTPS uses port 443 while HTTP uses port 80.",
+        "Look for the padlock icon - that means HTTPS security."
+      ]
+    ],
+    [
+      "How to grow tomatoes?",
+      [
+        "Plant in full sun with well-draining soil.",
+        "Water consistently but avoid getting leaves wet.",
+        "Use cages or stakes to support the growing plants."
+      ]
+    ],
+    [
+      "What is dark matter?",
+      [
+        "A mysterious substance that makes up about 27% of the universe.",
+        "We can detect its gravitational effects but not see it directly.",
+        "One of the biggest unsolved mysteries in physics."
+      ]
+    ],
+    [
+      "How to improve posture?",
+      [
+        "Set reminders to check your sitting position hourly.",
+        "Strengthen core muscles with exercises like planks.",
+        "Try ergonomic chairs or standing desks if possible."
+      ]
+    ],
+    [
+      "Who painted the Mona Lisa?",
+      [
+        "Leonardo da Vinci created this masterpiece.",
+        "It was painted in the early 1500s in Florence.",
+        "The painting now resides in the Louvre Museum."
+      ]
+    ],
+    [
+      "Tips for public speaking?",
+      [
+        "Practice multiple times before your presentation.",
+        "Focus on breathing to control nervousness.",
+        "Make eye contact and speak slower than you think you should."
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check a weather app!",
+        "It looks pleasant outside based on general forecasts.",
+        "I recommend checking your local weather station for accurate updates."
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options.",
+        "The process varies by model - check your manufacturer's website.",
+        "Make sure to back up your data before resetting!"
+      ]
+    ],
+    [
+      "Tell me a joke!",
+      [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "What do you call fake spaghetti? An impasta!",
+        "I'd tell you a chemistry joke, but all the good ones argon."
+      ]
+    ],
+    [
+      "What's 15% of 200?",
+      [
+        "That would be 30.",
+        "The answer is 30.",
+        "15% of 200 equals 30."
+      ]
+    ],
+    [
+      "Recommend a good movie",
+      [
+        "The Shawshank Redemption is a classic!",
+        "Try Parasite if you enjoy thrillers.",
+        "For animation, Spider-Man: Into the Spider-Verse is fantastic."
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, cook on low heat while stirring.",
+        "Add a bit of milk for fluffier eggs!",
+        "Season with salt and pepper after cooking."
+      ]
+    ],
+    [
+      "What time is it?",
+      [
+        "I don't have access to real-time clock data.",
+        "You can check your device's clock for the current time.",
+        "Sorry, I'm not connected to a time service."
+      ]
+    ],
+    [
+      "Explain quantum computing",
+      [
+        "It uses qubits that can be 0, 1, or both at once.",
+        "Quantum computers solve complex problems faster than classical ones.",
+        "It's based on quantum mechanics principles like superposition."
+      ]
+    ],
+    [
+      "Best way to learn a language?",
+      [
+        "Immersion is most effective - live where it's spoken!",
+        "Daily practice with apps like Duolingo helps.",
+        "Combine studying grammar with conversation practice."
+      ]
+    ],
+    [
+      "How many continents are there?",
+      [
+        "There are 7 continents by most standards.",
+        "Some count 6 by combining Europe and Asia.",
+        "The number varies between 5-7 depending on classification."
+      ]
+    ],
+    [
+      "What's the capital of Australia?",
+      [
+        "Canberra is Australia's capital.",
+        "It's Canberra, not Sydney as many think!",
+        "The capital is Canberra, established in 1913."
+      ]
+    ],
+    [
+      "How to relieve stress?",
+      [
+        "Try deep breathing exercises for 5 minutes.",
+        "Physical activity like walking helps reduce stress.",
+        "Mindfulness meditation can be very effective."
+      ]
+    ],
+    [
+      "Difference between VR and AR?",
+      [
+        "VR is fully immersive, AR overlays digital on real world.",
+        "VR needs a headset, AR works through phones too.",
+        "VR creates environments, AR enhances existing ones."
+      ]
+    ],
+    [
+      "When was the internet invented?",
+      [
+        "ARPANET, the precursor, launched in 1969.",
+        "The modern internet emerged in the 1980s-90s.",
+        "Tim Berners-Lee invented the World Wide Web in 1989."
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "Try the Four-in-Hand knot for beginners.",
+        "YouTube has great visual tutorials for this!",
+        "The Windsor knot is more formal but trickier."
+      ]
+    ],
+    [
+      "What causes rainbows?",
+      [
+        "Light refracting through water droplets in the air.",
+        "Sunlight separating into colors via refraction.",
+        "They appear when sun shines through rain at the right angle."
+      ]
+    ],
+    [
+      "Best smartphone in 2023?",
+      [
+        "iPhone 15 Pro is top-tier but expensive.",
+        "Samsung Galaxy S23 Ultra has great features.",
+        "Google Pixel 7 offers excellent value."
+      ]
+    ],
+    [
+      "How to improve my sleep?",
+      [
+        "Maintain a consistent sleep schedule.",
+        "Avoid screens 1 hour before bedtime.",
+        "Keep your bedroom cool and dark."
+      ]
+    ],
+    [
+      "What is blockchain?",
+      [
+        "A decentralized digital ledger system.",
+        "Technology behind cryptocurrencies like Bitcoin.",
+        "Chain of blocks containing transaction records."
+      ]
+    ],
+    [
+      "How to make coffee without a machine?",
+      [
+        "Use a French press if you have one.",
+        "Try the pour-over method with a filter.",
+        "Cowboy coffee: boil grounds then let them settle."
+      ]
+    ],
+    [
+      "Who painted the Mona Lisa?",
+      [
+        "Leonardo da Vinci created this masterpiece.",
+        "It was painted by da Vinci in the 1500s.",
+        "The famous portrait is by Leonardo da Vinci."
+      ]
+    ],
+    [
+      "How to take a screenshot?",
+      [
+        "On Windows: PrtScn key. Mac: Cmd+Shift+3.",
+        "Android: Power + Volume Down buttons.",
+        "Check your device's manual as methods vary."
+      ]
+    ],
+    [
+      "What's the tallest mountain?",
+      [
+        "Mount Everest is the highest above sea level.",
+        "Mauna Kea is tallest from base to summit.",
+        "Everest stands at 8,848 meters (29,029 ft)."
+      ]
+    ],
+    [
+      "How to unclog a drain?",
+      [
+        "Try a plunger or drain snake first.",
+        "Baking soda + vinegar can help dissolve clogs.",
+        "For tough clogs, you might need a plumber."
+      ]
+    ],
+    [
+      "What is photosynthesis?",
+      [
+        "Plants convert sunlight to chemical energy.",
+        "Process where plants make food using light.",
+        "CO2 + water + light → glucose + oxygen."
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "It looks sunny and warm!",
+        "I don't have live weather updates, sorry.",
+        "You might want to check a weather app for accurate info."
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset.",
+        "Hold the power and volume buttons for 10 seconds.",
+        "Check your manufacturer's website for specific steps."
+      ]
+    ],
+    [
+      "Tell me a joke!",
+      [
+        "Why don’t skeletons fight? They don’t have the guts!",
+        "What’s orange and sounds like a parrot? A carrot!",
+        "I’d tell a time-travel joke, but you didn’t like it yet."
+      ]
+    ],
+    [
+      "What's 15% of 200?",
+      [
+        "That would be 30.",
+        "The answer is 30.",
+        "15% of 200 equals 30."
+      ]
+    ],
+    [
+      "Who won the last World Cup?",
+      [
+        "Argentina won in 2022!",
+        "The last winner was Argentina.",
+        "Check FIFA's site for official results."
+      ]
+    ],
+    [
+      "How to make coffee?",
+      [
+        "Brew ground beans with hot water.",
+        "Try a French press or drip machine.",
+        "Instant coffee just needs hot water!"
+      ]
+    ],
+    [
+      "Best laptop for students?",
+      [
+        "Chromebooks are affordable and lightweight.",
+        "MacBook Air is great for longevity.",
+        "Look for Windows laptops with 8GB+ RAM."
+      ]
+    ],
+    [
+      "What's the capital of Japan?",
+      [
+        "Tokyo!",
+        "It’s Tokyo.",
+        "Japan’s capital is Tokyo."
+      ]
+    ],
+    [
+      "How to relieve stress?",
+      [
+        "Try deep breathing or meditation.",
+        "A short walk can help clear your mind.",
+        "Listening to music is a great relaxer."
+      ]
+    ],
+    [
+      "When was Netflix founded?",
+      [
+        "1997!",
+        "Netflix started in 1997.",
+        "It launched over 25 years ago in 1997."
+      ]
+    ],
+    [
+      "Explain quantum computing.",
+      [
+        "It uses qubits for faster calculations.",
+        "Think of superpowered parallel processing.",
+        "It’s complex, but here’s a simple intro: [link]."
+      ]
+    ],
+    [
+      "How to cook pasta?",
+      [
+        "Boil water, add salt, cook for 8-10 mins.",
+        "Al dente means firm to the bite.",
+        "Don’t forget to stir occasionally!"
+      ]
+    ],
+    [
+      "Who painted the Mona Lisa?",
+      [
+        "Leonardo da Vinci!",
+        "Da Vinci created it.",
+        "It’s a famous da Vinci masterpiece."
+      ]
+    ],
+    [
+      "What's the tallest mountain?",
+      [
+        "Mount Everest!",
+        "Everest is the highest.",
+        "Nepal’s Everest tops the list at 8,848m."
+      ]
+    ],
+    [
+      "How to learn Python?",
+      [
+        "Try free courses like Codecademy.",
+        "Practice with small projects.",
+        "YouTube has great tutorials!"
+      ]
+    ],
+    [
+      "Is avocado a fruit?",
+      [
+        "Yes, it’s a single-seeded berry!",
+        "Botanically, it’s a fruit.",
+        "Surprisingly, it’s not a vegetable!"
+      ]
+    ],
+    [
+      "How to improve Wi-Fi speed?",
+      [
+        "Restart your router.",
+        "Move closer to the router.",
+        "Reduce connected devices."
+      ]
+    ],
+    [
+      "What's the meaning of life?",
+      [
+        "42, according to Hitchhiker’s Guide!",
+        "It’s subjective—find your purpose.",
+        "Philosophers are still debating this!"
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "Try the Four-in-Hand knot: [steps].",
+        "YouTube has visual guides!",
+        "Practice makes perfect!"
+      ]
+    ],
+    [
+      "When is the next full moon?",
+      [
+        "Check a lunar calendar online.",
+        "It varies—usually every 29.5 days.",
+        "I don’t have real-time moon data."
+      ]
+    ],
+    [
+      "Best way to wake up early?",
+      [
+        "Set a consistent sleep schedule.",
+        "Place your alarm across the room.",
+        "Avoid screens before bed."
+      ]
+    ],
+    [
+      "How does GPS work?",
+      [
+        "Satellites triangulate your position.",
+        "It uses timing signals from space.",
+        "Your device calculates location from satellites."
+      ]
+    ],
+    [
+      "What's the fastest animal?",
+      [
+        "Peregrine falcon (dives at 240mph)!",
+        "Cheetah for land speed (70mph).",
+        "Sailfish swims fastest in water."
+      ]
+    ],
+    [
+      "How to delete Instagram account?",
+      [
+        "Go to Settings > Account Center.",
+        "You’ll find it under Privacy.",
+        "Temporarily deactivate first if unsure."
+      ]
+    ],
+    [
+      "Why is the sky blue?",
+      [
+        "Light scatters more in blue wavelengths.",
+        "Rayleigh scattering causes it.",
+        "Shorter blue light waves dominate our view."
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check your local forecast!",
+        "It looks pleasant outside based on general seasonal patterns.",
+        "You might want to peek out the window or check a weather app for real-time updates."
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options.",
+        "The exact steps vary by brand - check your manufacturer's guide.",
+        "Remember to back up your data before resetting!"
+      ]
+    ],
+    [
+      "Tell me a joke.",
+      [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "What's orange and sounds like a parrot? A carrot!",
+        "I told my wife she was drawing her eyebrows too high. She looked surprised."
+      ]
+    ],
+    [
+      "What's 15% of 200?",
+      [
+        "That would be 30.",
+        "The calculation gives you 30.",
+        "It's 30 - easy tip calculation!"
+      ]
+    ],
+    [
+      "Recommend a good movie.",
+      [
+        "The Shawshank Redemption is a classic favorite!",
+        "Try Parasite if you enjoy thought-provoking films.",
+        "For light entertainment, The Princess Bride never disappoints."
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, cook on low heat while stirring constantly.",
+        "Add a splash of milk before whisking for fluffier eggs.",
+        "Season with salt and pepper at the end for best texture."
+      ]
+    ],
+    [
+      "What is AI?",
+      [
+        "Artificial Intelligence simulates human thinking in machines.",
+        "It's computer systems performing tasks that normally require human intelligence.",
+        "AI includes everything from chatbots to self-driving cars."
+      ]
+    ],
+    [
+      "Best way to learn Spanish?",
+      [
+        "Try language apps like Duolingo for daily practice.",
+        "Immersion through travel or conversation groups works wonders.",
+        "Watch Spanish shows with subtitles to pick up natural speech."
+      ]
+    ],
+    [
+      "When was the internet invented?",
+      [
+        "ARPANET, the precursor, launched in 1969.",
+        "Modern internet infrastructure developed in the 1980s-90s.",
+        "Tim Berners-Lee invented the World Wide Web in 1989."
+      ]
+    ],
+    [
+      "How to stop procrastinating?",
+      [
+        "Break tasks into smaller, manageable steps.",
+        "Use the Pomodoro technique: 25-minute focused sessions.",
+        "Remove distractions and set clear deadlines for yourself."
+      ]
+    ],
+    [
+      "What causes earthquakes?",
+      [
+        "Tectonic plates shifting against each other.",
+        "Movement along geological fault lines underground.",
+        "Built-up stress in Earth's crust being suddenly released."
+      ]
+    ],
+    [
+      "Healthy breakfast ideas?",
+      [
+        "Greek yogurt with berries and granola.",
+        "Avocado toast with poached eggs.",
+        "Oatmeal with banana slices and peanut butter."
+      ]
+    ],
+    [
+      "Difference between VR and AR?",
+      [
+        "VR is fully immersive, AR overlays digital on real world.",
+        "VR needs a headset, AR works through phones/glasses.",
+        "VR creates environments, AR enhances existing ones."
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "YouTube has great visual tutorials for this!",
+        "It's the Windsor knot: wide end over, under, then through.",
+        "Practice makes perfect - start with simpler knots first."
+      ]
+    ],
+    [
+      "Capital of Australia?",
+      [
+        "Canberra is the capital city.",
+        "Many think it's Sydney, but it's actually Canberra.",
+        "Canberra became capital in 1927."
+      ]
+    ],
+    [
+      "Fix slow computer?",
+      [
+        "Try clearing cache and temporary files first.",
+        "Check for malware and unnecessary startup programs.",
+        "Adding more RAM often helps significantly."
+      ]
+    ],
+    [
+      "Best pizza toppings?",
+      [
+        "Classic margherita never fails!",
+        "Pepperoni and mushrooms are crowd-pleasers.",
+        "Try something adventurous like prosciutto and arugula."
+      ]
+    ],
+    [
+      "How many continents are there?",
+      [
+        "7 continents in the most common model.",
+        "Some systems count 6 by combining Europe and Asia.",
+        "It depends on geographical conventions - usually 5-7."
+      ]
+    ],
+    [
+      "Tips for public speaking?",
+      [
+        "Practice out loud and know your material well.",
+        "Focus on breathing and maintain eye contact.",
+        "Start with a story to engage your audience immediately."
+      ]
+    ],
+    [
+      "Why is the sky blue?",
+      [
+        "Sunlight scatters more blue light in the atmosphere.",
+        "Rayleigh scattering affects shorter wavelengths most.",
+        "Blue light gets redirected to our eyes more than other colors."
+      ]
+    ],
+    [
+      "Easy vegetarian recipes?",
+      [
+        "Chickpea curry is simple and nutritious.",
+        "Vegetable stir-fry with tofu cooks quickly.",
+        "Pasta primavera with seasonal veggies is always good."
+      ]
+    ],
+    [
+      "How does GPS work?",
+      [
+        "Satellites transmit timing signals to your device.",
+        "Your device calculates position by comparing multiple signals.",
+        "It needs at least 4 satellite connections for accuracy."
+      ]
+    ],
+    [
+      "Recommend a book?",
+      [
+        "Sapiens by Yuval Noah Harari is fascinating.",
+        "For fiction, try The Midnight Library by Matt Haig.",
+        "Atomic Habits offers great self-improvement insights."
+      ]
+    ],
+    [
+      "Save money on groceries?",
+      [
+        "Plan meals and stick to a shopping list.",
+        "Buy store brands and seasonal produce.",
+        "Use coupons and shop at discount grocery chains."
+      ]
+    ],
+    [
+      "What is blockchain?",
+      [
+        "A decentralized digital ledger technology.",
+        "It's the system behind cryptocurrencies like Bitcoin.",
+        "Data stored in chained blocks that are tamper-resistant."
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check your local forecast!",
+        "It looks pleasant outside based on general seasonal patterns.",
+        "You might want to check a weather app for real-time updates."
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options.",
+        "The exact steps vary by device - check your manufacturer's website.",
+        "Make sure to back up your data before resetting!"
+      ]
+    ],
+    [
+      "What's a good movie to watch?",
+      [
+        "The Shawshank Redemption is a classic!",
+        "Try Everything Everywhere All At Once for something unique.",
+        "Check out recent Oscar winners for quality picks."
+      ]
+    ],
+    [
+      "Solve 15 + 7 × 3",
+      [
+        "The answer is 36 (remember PEMDAS/BODMAS rules!).",
+        "First multiply 7×3=21, then add 15 to get 36.",
+        "It's 36 - multiplication comes before addition."
+      ]
+    ],
+    [
+      "How to make coffee without a machine?",
+      [
+        "Try the pour-over method with a filter and hot water.",
+        "You can use instant coffee with hot water.",
+        "A French press is great if you have one!"
+      ]
+    ],
+    [
+      "Best smartphone in 2024?",
+      [
+        "Flagships like iPhone 15 Pro or Samsung S24 are top contenders.",
+        "It depends on your budget and needs - mid-range phones offer great value.",
+        "Consider Google Pixel 8 for excellent camera software."
+      ]
+    ],
+    [
+      "How to relieve stress?",
+      [
+        "Try deep breathing exercises for 5 minutes.",
+        "A short walk in nature can work wonders.",
+        "Listening to calming music might help relax."
+      ]
+    ],
+    [
+      "What's the capital of Australia?",
+      [
+        "Canberra is Australia's capital city.",
+        "It's Canberra, not Sydney as many think!",
+        "The capital is Canberra, established in 1913."
+      ]
+    ],
+    [
+      "How to improve my English?",
+      [
+        "Practice daily by reading English books/news.",
+        "Watch movies with English subtitles.",
+        "Try language exchange with native speakers."
+      ]
+    ],
+    [
+      "When was the internet invented?",
+      [
+        "ARPANET, the precursor, launched in 1969.",
+        "Modern internet developed in the 1980s-90s.",
+        "Tim Berners-Lee invented the World Wide Web in 1989."
+      ]
+    ],
+    [
+      "Best way to learn coding?",
+      [
+        "Start with Python - it's beginner-friendly!",
+        "Try free online courses like Codecademy.",
+        "Build small projects to practice regularly."
+      ]
+    ],
+    [
+      "How to make friends as an adult?",
+      [
+        "Join clubs or groups with shared interests.",
+        "Try volunteering for causes you care about.",
+        "Attend local community events regularly."
+      ]
+    ],
+    [
+      "What causes earthquakes?",
+      [
+        "Tectonic plates shifting against each other.",
+        "Movement along geological fault lines.",
+        "Built-up pressure in Earth's crust being released."
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "Try the Four-in-Hand knot for beginners.",
+        "YouTube has great visual tutorials!",
+        "The Windsor knot is classic for formal events."
+      ]
+    ],
+    [
+      "Difference between AI and ML?",
+      [
+        "AI is broader - ML is a subset using algorithms.",
+        "ML learns from data, AI mimics human intelligence.",
+        "All ML is AI, but not all AI uses ML."
+      ]
+    ],
+    [
+      "Healthy breakfast ideas?",
+      [
+        "Oatmeal with fruits and nuts.",
+        "Greek yogurt with honey and granola.",
+        "Avocado toast on whole grain bread."
+      ]
+    ],
+    [
+      "How does GPS work?",
+      [
+        "Satellites transmit timing signals to your device.",
+        "Your device calculates position from multiple satellites.",
+        "At least 4 satellites are needed for accurate location."
+      ]
+    ],
+    [
+      "Best time to exercise?",
+      [
+        "Morning workouts can boost energy for the day.",
+        "Afternoon when body temperature peaks is effective.",
+        "Whenever you can consistently do it is best!"
+      ]
+    ],
+    [
+      "How to take a screenshot?",
+      [
+        "On Windows: PrtScn key or Win+Shift+S.",
+        "On Mac: Cmd+Shift+3 or 4 for selection.",
+        "On phones: usually power + volume down."
+      ]
+    ],
+    [
+      "Why is the sky blue?",
+      [
+        "Sunlight scatters more blue light (Rayleigh scattering).",
+        "Blue light waves are shorter and scatter more.",
+        "It's how our atmosphere interacts with sunlight."
+      ]
+    ],
+    [
+      "How to stop procrastinating?",
+      [
+        "Break tasks into smaller, manageable steps.",
+        "Use the Pomodoro technique (25-min focus sessions).",
+        "Remove distractions and set clear deadlines."
+      ]
+    ],
+    [
+      "What is blockchain technology?",
+      [
+        "A decentralized digital ledger system.",
+        "It's the technology behind cryptocurrencies.",
+        "Data stored in blocks that form a chain."
+      ]
+    ],
+    [
+      "How to cook perfect rice?",
+      [
+        "Use 2:1 water-to-rice ratio for white rice.",
+        "Let it steam covered for 10 mins after cooking.",
+        "Rinse rice first to remove excess starch."
+      ]
+    ],
+    [
+      "When to change car oil?",
+      [
+        "Every 5,000-7,500 miles for conventional oil.",
+        "Check your vehicle's manual for specific intervals.",
+        "Synthetic oil can last 10,000+ miles."
+      ]
+    ],
+    [
+      "How to save money effectively?",
+      [
+        "Create and stick to a monthly budget.",
+        "Automate transfers to savings accounts.",
+        "Cut unnecessary subscriptions and track spending."
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check your local forecast!",
+        "Looks like a nice day to go outside!",
+        "Weather apps would give more accurate real-time info."
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options",
+        "The exact steps vary by brand - check your manual",
+        "Hold power + volume down buttons for 10 seconds"
+      ]
+    ],
+    [
+      "Tell me a joke!",
+      [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "What's orange and sounds like a parrot? A carrot!",
+        "I'd tell a chemistry joke but all the good ones argon."
+      ]
+    ],
+    [
+      "What's 15% of 200?",
+      [
+        "That would be 30",
+        "The answer is 30",
+        "15% of 200 equals 30"
+      ]
+    ],
+    [
+      "Recommend a good movie",
+      [
+        "The Shawshank Redemption is a classic!",
+        "Try Everything Everywhere All At Once for something unique",
+        "Pulp Fiction never gets old"
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, melt butter in pan, cook on low heat while stirring",
+        "Beat eggs with salt, pour into hot pan, stir constantly",
+        "Add milk to eggs before cooking for fluffier texture"
+      ]
+    ],
+    [
+      "What is AI?",
+      [
+        "Artificial Intelligence simulates human thinking in machines",
+        "AI is computer systems performing tasks requiring human intelligence",
+        "It's machines learning from data to make decisions"
+      ]
+    ],
+    [
+      "Best way to learn Spanish?",
+      [
+        "Try language apps like Duolingo or Babbel",
+        "Immerse yourself with Spanish media and practice daily",
+        "Take classes and practice with native speakers"
+      ]
+    ],
+    [
+      "How far is the moon?",
+      [
+        "About 238,855 miles (384,400 km) from Earth",
+        "Roughly 30 Earth diameters away",
+        "The average distance is 1.28 light-seconds"
+      ]
+    ],
+    [
+      "Fix my slow computer",
+      [
+        "Try deleting unused files and programs",
+        "Add more RAM or upgrade your storage",
+        "Run a malware scan and reboot regularly"
+      ]
+    ],
+    [
+      "Who won the World Cup 2022?",
+      [
+        "Argentina won against France in the final",
+        "Messi's Argentina took the trophy",
+        "The 2022 champion was Argentina"
+      ]
+    ],
+    [
+      "Healthy breakfast ideas?",
+      [
+        "Oatmeal with fruits and nuts",
+        "Greek yogurt with granola and honey",
+        "Avocado toast with poached eggs"
+      ]
+    ],
+    [
+      "How does GPS work?",
+      [
+        "Satellites transmit signals that your device triangulates",
+        "It uses timing signals from multiple orbiting satellites",
+        "Your device calculates position based on satellite distances"
+      ]
+    ],
+    [
+      "What time is it in Tokyo?",
+      [
+        "I don't have real-time data - check world clock websites",
+        "Tokyo is typically 9 hours ahead of GMT",
+        "Japan doesn't observe daylight savings time"
+      ]
+    ],
+    [
+      "Explain quantum computing",
+      [
+        "It uses qubits that can be 0 and 1 simultaneously",
+        "Quantum computers leverage superposition and entanglement",
+        "It's computing using quantum-mechanical phenomena"
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "YouTube has great visual tutorials!",
+        "Make a loop, wrap the wide end around, and pull through",
+        "There are several knots - Windsor is most popular"
+      ]
+    ],
+    [
+      "Best smartphone 2023?",
+      [
+        "iPhone 15 Pro Max has top reviews",
+        "Samsung Galaxy S23 Ultra is a strong Android option",
+        "Google Pixel 8 Pro offers great AI features"
+      ]
+    ],
+    [
+      "Why is the sky blue?",
+      [
+        "Sunlight scatters more blue light in the atmosphere",
+        "Rayleigh scattering affects shorter wavelengths more",
+        "Blue light gets redirected to our eyes more than other colors"
+      ]
+    ],
+    [
+      "How to meditate?",
+      [
+        "Find quiet space, focus on breath, gently return focus when distracted",
+        "Start with 5 minutes daily using guided apps",
+        "Observe thoughts without judgment, return to present moment"
+      ]
+    ],
+    [
+      "Who painted the Mona Lisa?",
+      [
+        "Leonardo da Vinci created this masterpiece",
+        "It was painted by da Vinci in the Renaissance",
+        "The famous portrait is by Leonardo da Vinci"
+      ]
+    ],
+    [
+      "Difference between VR and AR?",
+      [
+        "VR is fully immersive, AR overlays digital on real world",
+        "Virtual Reality replaces reality, Augmented Reality enhances it",
+        "VR needs headsets, AR can work through phone cameras"
+      ]
+    ],
+    [
+      "How to stop procrastinating?",
+      [
+        "Break tasks into smaller steps with deadlines",
+        "Use Pomodoro technique (25-min focused work sessions)",
+        "Remove distractions and reward yourself for completing tasks"
+      ]
+    ],
+    [
+      "What causes earthquakes?",
+      [
+        "Tectonic plates shifting suddenly along faults",
+        "Built-up stress in Earth's crust being released",
+        "Movement along geological fault lines underground"
+      ]
+    ],
+    [
+      "Best way to cook steak?",
+      [
+        "Sear on high heat, finish in oven to desired doneness",
+        "Salt generously, use cast iron, rest before slicing",
+        "Reverse sear: slow cook first then finish with quick sear"
+      ]
+    ],
+    [
+      "How many countries in Europe?",
+      [
+        "There are 44-51 depending on definition",
+        "The UN recognizes 44 sovereign states",
+        "Between 44-51 depending on political recognition"
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check your local forecast!",
+        "Looks like a nice day outside!",
+        "Weather apps would give you more accurate updates than I can."
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options",
+        "Hold power and volume buttons simultaneously for 10 seconds",
+        "The exact steps depend on your phone model - check the manual"
+      ]
+    ],
+    [
+      "Tell me a joke!",
+      [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "What do you call fake spaghetti? An impasta!",
+        "I'd tell you a chemistry joke but I know I wouldn't get a reaction."
+      ]
+    ],
+    [
+      "What's 15% of 200?",
+      [
+        "That would be 30",
+        "The answer is 30",
+        "Let me calculate... it's 30"
+      ]
+    ],
+    [
+      "Recommend a good movie",
+      [
+        "The Shawshank Redemption is a classic!",
+        "Recently, Everything Everywhere All At Once was great",
+        "Depends on your taste - what genre do you prefer?"
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, cook on low heat while stirring",
+        "Add a bit of milk for fluffier eggs",
+        "My recipe: eggs, butter, salt, and constant stirring"
+      ]
+    ],
+    [
+      "What is AI?",
+      [
+        "Artificial Intelligence simulates human thinking in machines",
+        "It's computer systems performing tasks that normally require human intelligence",
+        "AI ranges from chatbots to self-driving cars"
+      ]
+    ],
+    [
+      "Capital of France?",
+      [
+        "Paris",
+        "The capital is Paris",
+        "It's Paris!"
+      ]
+    ],
+    [
+      "Best way to learn coding?",
+      [
+        "Start with Python - it's beginner friendly",
+        "Practice daily with small projects",
+        "Online platforms like Codecademy or freeCodeCamp are great"
+      ]
+    ],
+    [
+      "How many days in a year?",
+      [
+        "365, 366 in a leap year",
+        "Typically 365 days",
+        "365 days, except leap years with 366"
+      ]
+    ],
+    [
+      "What time is it?",
+      [
+        "I don't have access to real-time clock data",
+        "You can check your device's clock",
+        "Sorry, I can't tell current time"
+      ]
+    ],
+    [
+      "How to relieve stress?",
+      [
+        "Deep breathing exercises help",
+        "Try a short walk in nature",
+        "Meditation apps can guide you through relaxation"
+      ]
+    ],
+    [
+      "Explain blockchain",
+      [
+        "It's a decentralized digital ledger system",
+        "Think of it as a secure, unchangeable record-keeping technology",
+        "The tech behind cryptocurrencies like Bitcoin"
+      ]
+    ],
+    [
+      "Healthy breakfast ideas?",
+      [
+        "Oatmeal with fruits and nuts",
+        "Greek yogurt with granola",
+        "Avocado toast with poached eggs"
+      ]
+    ],
+    [
+      "Who invented the telephone?",
+      [
+        "Alexander Graham Bell",
+        "It was Alexander Graham Bell in 1876",
+        "Credited to Alexander Graham Bell"
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "There are many methods - try the Four-in-Hand knot first",
+        "YouTube has great visual tutorials",
+        "The Windsor knot is classic for formal events"
+      ]
+    ],
+    [
+      "What causes rain?",
+      [
+        "Water evaporates, condenses in clouds, then falls",
+        "It's part of the water cycle when clouds become too heavy",
+        "Moisture in the air condenses and precipitates"
+      ]
+    ],
+    [
+      "Best smartphone in 2023?",
+      [
+        "iPhone 15 Pro is top-rated",
+        "Samsung Galaxy S23 Ultra is excellent",
+        "Depends on your needs and budget"
+      ]
+    ],
+    [
+      "How to say hello in Spanish?",
+      [
+        "Hola",
+        "You would say 'Hola'",
+        "The Spanish word is 'Hola'"
+      ]
+    ],
+    [
+      "What is photosynthesis?",
+      [
+        "Plants convert sunlight to chemical energy",
+        "Process where plants make food using sunlight",
+        "CO2 + water + sunlight = glucose + oxygen"
+      ]
+    ],
+    [
+      "How to improve sleep?",
+      [
+        "Maintain a consistent sleep schedule",
+        "Avoid screens before bedtime",
+        "Keep your bedroom cool and dark"
+      ]
+    ],
+    [
+      "When was WWII?",
+      [
+        "1939-1945",
+        "It lasted from 1939 to 1945",
+        "World War II was 1939 through 1945"
+      ]
+    ],
+    [
+      "How to make coffee?",
+      [
+        "Drip method: grounds + hot water through filter",
+        "French press is simple and effective",
+        "Espresso machines make strong concentrated coffee"
+      ]
+    ],
+    [
+      "What is VPN?",
+      [
+        "Virtual Private Network encrypts your internet connection",
+        "It protects your online privacy",
+        "Service that hides your IP address"
+      ]
+    ],
+    [
+      "How to bake a cake?",
+      [
+        "Mix dry ingredients, add wet, bake at 350°F",
+        "Start with a simple vanilla cake recipe",
+        "Precise measurements are key - follow a trusted recipe"
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check your local forecast!",
+        "It looks pleasant outside based on general seasonal patterns.",
+        "I recommend checking a weather app for real-time updates."
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options.",
+        "The process varies by model - check your manufacturer's website.",
+        "Make sure to back up your data before resetting!"
+      ]
+    ],
+    [
+      "Tell me a joke.",
+      [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "What do you call fake spaghetti? An impasta!",
+        "I'd tell you a chemistry joke, but all the good ones Argon."
+      ]
+    ],
+    [
+      "What's 15% of 200?",
+      [
+        "That would be 30.",
+        "The answer is 30.",
+        "15% of 200 equals 30."
+      ]
+    ],
+    [
+      "Recommend a good movie.",
+      [
+        "The Shawshank Redemption is a classic!",
+        "Try Parasite if you enjoy thrillers.",
+        "For animation, Spider-Man: Into the Spider-Verse is fantastic."
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, cook in butter on low heat while stirring.",
+        "Beat eggs with salt, cook slowly for creamy texture.",
+        "Add a splash of milk before whisking for fluffier eggs."
+      ]
+    ],
+    [
+      "What's the capital of France?",
+      [
+        "Paris is the capital of France.",
+        "The capital is Paris.",
+        "It's Paris!"
+      ]
+    ],
+    [
+      "Best way to learn programming?",
+      [
+        "Start with Python - it's beginner-friendly!",
+        "Try interactive platforms like Codecademy.",
+        "Build small projects to learn by doing."
+      ]
+    ],
+    [
+      "How many continents are there?",
+      [
+        "There are 7 continents.",
+        "Most models recognize 7 continents.",
+        "It's generally accepted as 7 continents."
+      ]
+    ],
+    [
+      "What time is it?",
+      [
+        "I don't have access to real-time clock data.",
+        "You can check your device's clock.",
+        "I'm not connected to timekeeping services."
+      ]
+    ],
+    [
+      "How to relieve stress?",
+      [
+        "Try deep breathing exercises.",
+        "Going for a walk can help clear your mind.",
+        "Listening to music is a great stress reliever."
+      ]
+    ],
+    [
+      "Who invented the telephone?",
+      [
+        "Alexander Graham Bell is credited with inventing the telephone.",
+        "The telephone was invented by Alexander Graham Bell.",
+        "It was Alexander Graham Bell in 1876."
+      ]
+    ],
+    [
+      "Easy dinner recipes?",
+      [
+        "Pasta with garlic and oil is quick and delicious.",
+        "Try a stir-fry with your favorite vegetables.",
+        "Sheet pan dinners are easy with minimal cleanup."
+      ]
+    ],
+    [
+      "Difference between AI and ML?",
+      [
+        "AI is broader - ML is a subset focused on pattern learning.",
+        "AI mimics human intelligence, ML learns from data.",
+        "ML is about algorithms, AI encompasses reasoning and decision-making."
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "Try the Four-in-Hand knot - it's simple and classic.",
+        "YouTube has great visual tutorials for different knots.",
+        "The Windsor knot is more formal but takes practice."
+      ]
+    ],
+    [
+      "When was the internet invented?",
+      [
+        "ARPANET, the precursor, was developed in the late 1960s.",
+        "The modern internet emerged in the 1980s-90s.",
+        "Key developments happened between 1960s-1990s."
+      ]
+    ],
+    [
+      "Best smartphone in 2023?",
+      [
+        "Flagship models from Apple and Samsung are top contenders.",
+        "It depends on your needs - Pixel has great cameras.",
+        "Consider OnePlus for good value and performance."
+      ]
+    ],
+    [
+      "How to say hello in Spanish?",
+      [
+        "Hola is hello in Spanish.",
+        "You would say 'Hola'.",
+        "The Spanish word is Hola."
+      ]
+    ],
+    [
+      "What causes rainbows?",
+      [
+        "Rainbows form when sunlight refracts through water droplets.",
+        "It's caused by light dispersion in water droplets.",
+        "Sunlight bending through rain creates rainbow colors."
+      ]
+    ],
+    [
+      "Tips for better sleep?",
+      [
+        "Maintain a consistent sleep schedule.",
+        "Avoid screens before bedtime.",
+        "Keep your bedroom cool and dark."
+      ]
+    ],
+    [
+      "How to unclog a drain?",
+      [
+        "Try a mixture of baking soda and vinegar.",
+        "A plunger can work for sink drains too.",
+        "For tough clogs, a drain snake might be needed."
+      ]
+    ],
+    [
+      "Who painted the Mona Lisa?",
+      [
+        "Leonardo da Vinci painted the Mona Lisa.",
+        "It was created by Leonardo da Vinci.",
+        "The artist was Leonardo da Vinci."
+      ]
+    ],
+    [
+      "Good books for beginners?",
+      [
+        "Try The Alchemist by Paulo Coelho.",
+        "To Kill a Mockingbird is a great classic.",
+        "The Little Prince is short but profound."
+      ]
+    ],
+    [
+      "How does GPS work?",
+      [
+        "GPS uses satellite signals to calculate position.",
+        "Satellites transmit timing data to your device.",
+        "Your device triangulates signals from multiple satellites."
+      ]
+    ],
+    [
+      "What's the square root of 144?",
+      [
+        "The square root is 12.",
+        "It's 12.",
+        "12 is the square root of 144."
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check a weather app!",
+        "It looks pleasant outside based on general seasonal patterns.",
+        "I recommend checking your local forecast for accurate information."
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options",
+        "The process varies by device - check your manufacturer's website",
+        "Hold power + volume down buttons for 10 seconds on many Android devices"
+      ]
+    ],
+    [
+      "Tell me a fun fact",
+      [
+        "Honey never spoils - archaeologists have found edible honey in ancient Egyptian tombs!",
+        "Octopuses have three hearts and blue blood.",
+        "The shortest war in history was 38 minutes between Britain and Zanzibar in 1896."
+      ]
+    ],
+    [
+      "What's 15% of 200?",
+      [
+        "That would be 30.",
+        "The calculation gives you 30.",
+        "15% of 200 equals 30."
+      ]
+    ],
+    [
+      "Recommend a good movie",
+      [
+        "The Shawshank Redemption is a classic loved by many!",
+        "Parasite (2019) is an excellent award-winning film.",
+        "For something recent, try Everything Everywhere All At Once."
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, cook on low heat while stirring constantly.",
+        "Beat eggs with salt, cook in butter until fluffy.",
+        "Try adding a splash of milk before whisking for creamier eggs."
+      ]
+    ],
+    [
+      "What time is it?",
+      [
+        "I don't have access to real-time clock data.",
+        "Check your device's clock for the current time.",
+        "I can't tell time, but I can help you set an alarm!"
+      ]
+    ],
+    [
+      "Explain blockchain simply",
+      [
+        "It's a digital ledger that records transactions across many computers.",
+        "Think of it as a shared database that's very hard to tamper with.",
+        "A chain of data blocks secured by cryptography."
+      ]
+    ],
+    [
+      "Best way to learn a language?",
+      [
+        "Consistent daily practice with apps like Duolingo helps.",
+        "Immersion through movies/music/conversation is effective.",
+        "Combine vocabulary study with real conversation practice."
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "Try the Four-in-Hand knot - simple and classic!",
+        "YouTube has great visual tutorials for different knots.",
+        "The Windsor knot is more formal but takes practice."
+      ]
+    ],
+    [
+      "What causes rainbows?",
+      [
+        "Sunlight refracting through water droplets in the air.",
+        "Light splitting into colors when passing through rain.",
+        "The scientific term is 'dispersion of light' in water particles."
+      ]
+    ],
+    [
+      "Healthy breakfast ideas?",
+      [
+        "Greek yogurt with berries and granola is great!",
+        "Avocado toast with poached eggs provides good fats.",
+        "Oatmeal with nuts and banana gives lasting energy."
+      ]
+    ],
+    [
+      "Difference between VR and AR?",
+      [
+        "VR is fully immersive, AR overlays digital on real world.",
+        "Virtual Reality replaces reality, Augmented Reality adds to it.",
+        "VR needs a headset, AR can work through phone cameras."
+      ]
+    ],
+    [
+      "How to stop procrastinating?",
+      [
+        "Break tasks into smaller steps with deadlines.",
+        "Use the Pomodoro technique (25-min focused sessions).",
+        "Remove distractions and reward yourself for completing tasks."
+      ]
+    ],
+    [
+      "Capital of Australia?",
+      [
+        "Canberra is the capital city.",
+        "Many think it's Sydney, but it's actually Canberra.",
+        "The capital is Canberra, established in 1913."
+      ]
+    ],
+    [
+      "Best smartphone in 2023?",
+      [
+        "iPhone 15 Pro Max is top-tier but expensive.",
+        "Samsung Galaxy S23 Ultra has great features.",
+        "Google Pixel 8 offers excellent value for money."
+      ]
+    ],
+    [
+      "How to unclog a drain?",
+      [
+        "Try a mixture of baking soda and vinegar first.",
+        "A plunger or drain snake often works well.",
+        "For tough clogs, you might need a chemical drain cleaner."
+      ]
+    ],
+    [
+      "What is photosynthesis?",
+      [
+        "Plants converting sunlight into chemical energy.",
+        "The process where plants make food using light.",
+        "CO2 + water + sunlight → glucose + oxygen."
+      ]
+    ],
+    [
+      "Tips for public speaking?",
+      [
+        "Practice thoroughly and know your material well.",
+        "Focus on breathing and speaking slowly.",
+        "Engage your audience with eye contact and stories."
+      ]
+    ],
+    [
+      "How many continents are there?",
+      [
+        "7 continents is the most common model.",
+        "Some count 6 by combining Europe and Asia.",
+        "It depends on the geographical model you follow."
+      ]
+    ],
+    [
+      "Fix slow internet?",
+      [
+        "Restart your router and devices first.",
+        "Check for bandwidth-heavy apps running in background.",
+        "Try moving closer to your router or using Ethernet."
+      ]
+    ],
+    [
+      "Explain quantum computing",
+      [
+        "Computers using quantum bits that can be 0 and 1 simultaneously.",
+        "Harnesses quantum mechanics for powerful calculations.",
+        "Still experimental but could revolutionize certain computations."
+      ]
+    ],
+    [
+      "Good books to read?",
+      [
+        "Sapiens by Yuval Noah Harari is fascinating!",
+        "Project Hail Mary by Andy Weir is great sci-fi.",
+        "For classics, try To Kill a Mockingbird."
+      ]
+    ],
+    [
+      "How to meditate for beginners?",
+      [
+        "Start with 5 minutes focusing on your breath.",
+        "Try guided meditation apps like Headspace.",
+        "Find a quiet spot and observe thoughts without judgment."
+      ]
+    ],
+    [
+      "Why is the sky blue?",
+      [
+        "Sunlight scatters more blue light in our atmosphere.",
+        "Rayleigh scattering causes shorter blue wavelengths to dominate.",
+        "The way air molecules interact with sunlight makes it appear blue."
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check your local forecast!",
+        "It looks pleasant outside based on general seasonal patterns.",
+        "I recommend checking a weather app for real-time updates."
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options.",
+        "Hold power and volume buttons simultaneously for recovery mode.",
+        "The exact steps vary by model - check your manufacturer's website."
+      ]
+    ],
+    [
+      "Tell me a joke!",
+      [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "What do you call fake spaghetti? An impasta!",
+        "I'm reading a book about anti-gravity - it's impossible to put down!"
+      ]
+    ],
+    [
+      "What's 15% of 200?",
+      [
+        "That would be 30.",
+        "The answer is 30.",
+        "15% of 200 equals 30."
+      ]
+    ],
+    [
+      "Recommend a good movie",
+      [
+        "Inception is a mind-bending sci-fi classic.",
+        "The Shawshank Redemption has amazing reviews.",
+        "Parasite won Best Picture and is fantastic!"
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, cook on low heat while stirring constantly.",
+        "Add a splash of milk before whisking for fluffier eggs.",
+        "My secret tip: take them off the heat just before they're fully set."
+      ]
+    ],
+    [
+      "What time is it?",
+      [
+        "I don't have access to real-time clock data.",
+        "You can check your device's clock for the current time.",
+        "Time to get a watch! (Sorry, I can't tell exact time)."
+      ]
+    ],
+    [
+      "Explain blockchain simply",
+      [
+        "It's a digital ledger that records transactions securely.",
+        "Think of it as a chain of data blocks that can't be altered.",
+        "A decentralized system where many computers verify transactions."
+      ]
+    ],
+    [
+      "Best way to learn Spanish?",
+      [
+        "Try language apps like Duolingo for daily practice.",
+        "Immersion through movies/music works well for many.",
+        "Consider classes or a language exchange partner."
+      ]
+    ],
+    [
+      "What causes rainbows?",
+      [
+        "Light refracting through water droplets in the air.",
+        "Sunlight bending and separating into colors in rain.",
+        "The optical phenomenon of dispersion in water particles."
+      ]
+    ],
+    [
+      "How to calm anxiety?",
+      [
+        "Deep breathing exercises can help immediately.",
+        "Try grounding techniques like the 5-4-3-2-1 method.",
+        "Long-term, meditation and therapy are beneficial."
+      ]
+    ],
+    [
+      "Who invented the telephone?",
+      [
+        "Alexander Graham Bell is credited with the invention.",
+        "There were actually multiple claimants including Bell.",
+        "The patent was awarded to Bell in 1876."
+      ]
+    ],
+    [
+      "Easy dinner ideas",
+      [
+        "Pasta with garlic and olive oil is quick and tasty.",
+        "Sheet pan chicken with veggies requires minimal cleanup.",
+        "Stir-fry with frozen vegetables and protein cooks fast."
+      ]
+    ],
+    [
+      "Difference between VR and AR?",
+      [
+        "VR is fully immersive, AR overlays digital on real world.",
+        "VR needs a headset, AR works through phones/glasses.",
+        "VR creates environments, AR enhances existing ones."
+      ]
+    ],
+    [
+      "How many continents are there?",
+      [
+        "7 continents is the most common model.",
+        "Some systems count 6 by combining Europe and Asia.",
+        "It depends on the geographical model you follow."
+      ]
+    ],
+    [
+      "Tips for better sleep",
+      [
+        "Keep a consistent bedtime routine.",
+        "Avoid screens 1 hour before bed.",
+        "Make your bedroom cool, dark and quiet."
+      ]
+    ],
+    [
+      "What is photosynthesis?",
+      [
+        "Plants converting sunlight into chemical energy.",
+        "The process where plants make food using light.",
+        "CO2 + water + light = glucose + oxygen in plants."
+      ]
+    ],
+    [
+      "Best smartphone in 2023?",
+      [
+        "iPhone 15 Pro has excellent reviews.",
+        "Samsung Galaxy S23 Ultra is top-tier Android.",
+        "Google Pixel 8 offers great value."
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "Start with wide end longer, cross over then under.",
+        "YouTube has great visual tutorials for this!",
+        "There are multiple knots - Windsor is classic."
+      ]
+    ],
+    [
+      "Capital of Australia?",
+      [
+        "Canberra is the capital city.",
+        "Many think Sydney, but it's Canberra.",
+        "The capital is Canberra since 1913."
+      ]
+    ],
+    [
+      "Why is the sky blue?",
+      [
+        "Sunlight scatters more blue light in the atmosphere.",
+        "Rayleigh scattering affects shorter blue wavelengths.",
+        "The way our atmosphere filters sunlight makes it appear blue."
+      ]
+    ],
+    [
+      "How to stop procrastinating?",
+      [
+        "Break tasks into smaller, manageable steps.",
+        "Use the Pomodoro technique (25-min focus sessions).",
+        "Remove distractions and set clear deadlines."
+      ]
+    ],
+    [
+      "What's the meaning of life?",
+      [
+        "42 (according to Hitchhiker's Guide to the Galaxy)!",
+        "That's philosophy's big question - find your own purpose.",
+        "To create meaning through relationships and experiences."
+      ]
+    ],
+    [
+      "How does GPS work?",
+      [
+        "Satellites transmit signals that devices use to triangulate.",
+        "Your device calculates position from multiple satellite signals.",
+        "A network of 24+ satellites enables global positioning."
+      ]
+    ],
+    [
+      "Best way to clean windows?",
+      [
+        "Vinegar and water solution with microfiber cloth.",
+        "Use newspaper instead of paper towels to avoid streaks.",
+        "Clean on cloudy days to prevent quick drying streaks."
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check a weather app!",
+        "It looks pleasant outside based on general forecasts.",
+        "Weather varies by location - where are you checking for?"
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options",
+        "Hold power and volume buttons simultaneously for 10 seconds",
+        "The exact steps depend on your phone model"
+      ]
+    ],
+    [
+      "Tell me a joke!",
+      [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "What's orange and sounds like a parrot? A carrot!",
+        "I'd tell you a chemistry joke but I know I wouldn't get a reaction."
+      ]
+    ],
+    [
+      "What's 15% of 200?",
+      [
+        "That would be 30",
+        "The answer is 30",
+        "15% of 200 equals 30"
+      ]
+    ],
+    [
+      "Recommend a good movie",
+      [
+        "The Shawshank Redemption is a classic!",
+        "Try Parasite if you enjoy thrillers",
+        "Pulp Fiction is always a solid choice"
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, cook on low heat while stirring",
+        "Add milk to eggs before scrambling for fluffiness",
+        "Butter in pan first makes them extra tasty"
+      ]
+    ],
+    [
+      "What time is it?",
+      [
+        "I don't have real-time clock access",
+        "Check your device's clock for accurate time",
+        "Time zones vary - where are you located?"
+      ]
+    ],
+    [
+      "Explain blockchain simply",
+      [
+        "It's a digital ledger that records transactions securely",
+        "Think of it as a chain of data blocks that can't be altered",
+        "A decentralized way to store information across many computers"
+      ]
+    ],
+    [
+      "Best way to learn Spanish?",
+      [
+        "Try language apps like Duolingo daily",
+        "Immersion through travel or media helps most",
+        "Practice speaking with native speakers regularly"
+      ]
+    ],
+    [
+      "What causes rainbows?",
+      [
+        "Light refracting through water droplets in air",
+        "Sunlight breaking into colors when passing through rain",
+        "The spectrum of light becoming visible after rainfall"
+      ]
+    ],
+    [
+      "How to fix a slow computer?",
+      [
+        "Try clearing cache and temporary files",
+        "Adding more RAM often helps",
+        "Check for malware or unnecessary startup programs"
+      ]
+    ],
+    [
+      "Who won the last World Cup?",
+      [
+        "Argentina won the 2022 FIFA World Cup",
+        "Lionel Messi's team took the trophy in Qatar",
+        "The 2022 champion was Argentina against France"
+      ]
+    ],
+    [
+      "Convert 50°F to Celsius",
+      [
+        "That's 10°C",
+        "50 Fahrenheit equals 10 Celsius",
+        "The conversion gives you 10 degrees Celsius"
+      ]
+    ],
+    [
+      "Healthy breakfast ideas?",
+      [
+        "Greek yogurt with berries and nuts",
+        "Avocado toast with poached eggs",
+        "Oatmeal with banana and peanut butter"
+      ]
+    ],
+    [
+      "Difference between VR and AR?",
+      [
+        "VR is fully immersive, AR adds digital to real world",
+        "Virtual Reality replaces reality, Augmented Reality enhances it",
+        "VR needs a headset, AR can work through phone cameras"
+      ]
+    ],
+    [
+      "How many continents are there?",
+      [
+        "7 continents is the most common answer",
+        "Some models count 6 by combining Europe and Asia",
+        "It depends on the geographical model used"
+      ]
+    ],
+    [
+      "Tips for better sleep?",
+      [
+        "Keep a consistent sleep schedule",
+        "Avoid screens 1 hour before bed",
+        "Make your bedroom cool, dark and quiet"
+      ]
+    ],
+    [
+      "What is Bitcoin?",
+      [
+        "A decentralized digital cryptocurrency",
+        "The first blockchain-based digital money",
+        "A peer-to-peer electronic cash system"
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "YouTube has great visual tutorials!",
+        "It's easier with the 'four-in-hand' knot for beginners",
+        "Practice makes perfect - start with simple knots"
+      ]
+    ],
+    [
+      "When was the internet invented?",
+      [
+        "ARPANET in 1969 was the precursor",
+        "Modern internet emerged in the 1980s-90s",
+        "Tim Berners-Lee created the World Wide Web in 1989"
+      ]
+    ],
+    [
+      "Good books to read?",
+      [
+        "Sapiens by Yuval Noah Harari is fascinating",
+        "The Alchemist by Paulo Coelho is inspiring",
+        "1984 by George Orwell remains relevant"
+      ]
+    ],
+    [
+      "Solve 2x + 5 = 15",
+      [
+        "x = 5",
+        "Subtract 5 then divide by 2 gives x=5",
+        "The solution is x equals 5"
+      ]
+    ],
+    [
+      "How to reduce stress?",
+      [
+        "Deep breathing exercises help immediately",
+        "Regular physical activity is effective",
+        "Mindfulness meditation has proven benefits"
+      ]
+    ],
+    [
+      "Why is the sky blue?",
+      [
+        "Sunlight scatters more blue light in our atmosphere",
+        "Rayleigh scattering affects shorter wavelengths more",
+        "The way light interacts with air molecules creates blue"
+      ]
+    ],
+    [
+      "Best smartphone in 2023?",
+      [
+        "iPhone 15 Pro has top reviews",
+        "Samsung Galaxy S23 Ultra is excellent",
+        "Google Pixel 8 offers great value"
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "It looks sunny with a high of 75°F",
+        "I don't have live weather data, sorry!",
+        "You might want to check a weather app for accurate forecasts"
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options",
+        "The exact steps depend on your phone model",
+        "Make sure to back up your data first!"
+      ]
+    ],
+    [
+      "Tell me a joke",
+      [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "What do you call fake spaghetti? An impasta!",
+        "I'm not very funny, but I try my best"
+      ]
+    ],
+    [
+      "What's 15% of 200?",
+      [
+        "That would be 30",
+        "The answer is 30",
+        "Let me calculate... it's 30"
+      ]
+    ],
+    [
+      "Recommend a good movie",
+      [
+        "The Shawshank Redemption is a classic",
+        "Recently, Everything Everywhere All At Once was great",
+        "Depends on your taste - what genre do you like?"
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, cook in butter on low heat while stirring",
+        "Add a splash of milk before whisking for fluffier eggs",
+        "Some people like adding cheese or herbs for extra flavor"
+      ]
+    ],
+    [
+      "What time is it?",
+      [
+        "I don't have access to current time",
+        "You can check your device's clock",
+        "Sorry, I'm timeless!"
+      ]
+    ],
+    [
+      "Explain quantum computing",
+      [
+        "It uses qubits that can be 0 and 1 simultaneously",
+        "It's complex but could revolutionize computing",
+        "Imagine computers that work with probabilities instead of certainties"
+      ]
+    ],
+    [
+      "Best way to learn Spanish?",
+      [
+        "Try apps like Duolingo or Babbel",
+        "Immersion is most effective - practice daily",
+        "Take classes and practice with native speakers"
+      ]
+    ],
+    [
+      "What's the capital of Australia?",
+      [
+        "Canberra is the capital",
+        "It's Canberra, not Sydney!",
+        "Many think it's Sydney, but it's actually Canberra"
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "There are many methods - try the Four-in-Hand knot",
+        "YouTube has great tutorial videos",
+        "Practice makes perfect with tie knots"
+      ]
+    ],
+    [
+      "Who won the last World Cup?",
+      [
+        "Argentina won in 2022",
+        "Messi's Argentina took the trophy",
+        "The 2022 champion was Argentina"
+      ]
+    ],
+    [
+      "Healthy breakfast ideas?",
+      [
+        "Oatmeal with fruits and nuts",
+        "Greek yogurt with granola",
+        "Avocado toast with poached eggs"
+      ]
+    ],
+    [
+      "How does GPS work?",
+      [
+        "It uses satellites to triangulate position",
+        "Your device calculates location from multiple satellite signals",
+        "Satellites send timing signals that your device interprets"
+      ]
+    ],
+    [
+      "What's the square root of 144?",
+      [
+        "It's 12",
+        "The answer is 12",
+        "12 × 12 = 144"
+      ]
+    ],
+    [
+      "How to stop procrastinating?",
+      [
+        "Break tasks into smaller steps",
+        "Use the Pomodoro technique",
+        "Remove distractions and set deadlines"
+      ]
+    ],
+    [
+      "Best smartphone in 2023?",
+      [
+        "iPhone 15 Pro is highly rated",
+        "Samsung Galaxy S23 Ultra is excellent",
+        "Depends on your needs and budget"
+      ]
+    ],
+    [
+      "How many continents are there?",
+      [
+        "Commonly considered to be 7",
+        "Some systems count 5 or 6",
+        "It depends on the geographical model"
+      ]
+    ],
+    [
+      "Tips for better sleep?",
+      [
+        "Keep a consistent sleep schedule",
+        "Avoid screens before bedtime",
+        "Make your bedroom dark and cool"
+      ]
+    ],
+    [
+      "What is blockchain?",
+      [
+        "A decentralized digital ledger system",
+        "Technology behind cryptocurrencies like Bitcoin",
+        "Records transactions in secure, unchangeable blocks"
+      ]
+    ],
+    [
+      "How to unclog a drain?",
+      [
+        "Try baking soda and vinegar",
+        "Use a plunger or drain snake",
+        "Chemical drain cleaners work but be careful"
+      ]
+    ],
+    [
+      "When was the internet invented?",
+      [
+        "ARPANET in 1969 was the precursor",
+        "Modern internet developed in the 1980s-90s",
+        "Tim Berners-Lee invented the World Wide Web in 1989"
+      ]
+    ],
+    [
+      "How to make a good first impression?",
+      [
+        "Smile and make eye contact",
+        "Dress appropriately for the occasion",
+        "Be genuinely interested in others"
+      ]
+    ],
+    [
+      "What causes the seasons?",
+      [
+        "Earth's tilt and orbit around the sun",
+        "The 23.5° axial tilt changes sunlight distribution",
+        "Different hemispheres get more/less direct sunlight"
+      ]
+    ],
+    [
+      "How to take a screenshot?",
+      [
+        "On Windows: PrtScn key",
+        "On Mac: Command + Shift + 3",
+        "On phones: usually power + volume down"
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check your local forecast!",
+        "It looks pleasant outside based on general seasonal patterns.",
+        "You might want to check a weather app for real-time updates."
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options.",
+        "The exact steps vary by model - check your manufacturer's website.",
+        "Make sure to back up your data before resetting!"
+      ]
+    ],
+    [
+      "What's a good movie to watch?",
+      [
+        "The Shawshank Redemption is a classic favorite!",
+        "Try Everything Everywhere All At Once for something unique.",
+        "What genre do you prefer? I can suggest based on that."
+      ]
+    ],
+    [
+      "Solve 15 + 7 x 3",
+      [
+        "The answer is 36 (remember PEMDAS/BODMAS rules).",
+        "First multiply 7x3=21, then add 15 to get 36.",
+        "It's 36 - multiplication comes before addition."
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, cook on low heat while stirring constantly.",
+        "Add a splash of milk before whisking for fluffier eggs.",
+        "My secret tip: take them off the heat just before they look done."
+      ]
+    ],
+    [
+      "Best smartphone in 2023?",
+      [
+        "The iPhone 15 Pro and Samsung S23 are top contenders.",
+        "Depends on your needs - Pixel 7 has great AI features.",
+        "Flagship models from Apple, Samsung and Google are all excellent."
+      ]
+    ],
+    [
+      "What time is it?",
+      [
+        "I don't have access to real-time clock data.",
+        "You can check your device's clock for accurate time.",
+        "Time zones vary - where are you located?"
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "Try the Four-in-Hand knot for beginners - it's simple!",
+        "YouTube has great visual tutorials for different knots.",
+        "The Windsor knot is classic for formal occasions."
+      ]
+    ],
+    [
+      "Tell me a joke",
+      [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "I invented a new word: plagiarism.",
+        "Parallel lines have so much in common... it's a shame they'll never meet."
+      ]
+    ],
+    [
+      "What's the capital of France?",
+      [
+        "Paris is the beautiful capital of France!",
+        "The City of Lights - Paris!",
+        "France's capital is Paris, famous for the Eiffel Tower."
+      ]
+    ],
+    [
+      "How to stop procrastinating?",
+      [
+        "Try the Pomodoro technique - work in 25-minute bursts.",
+        "Break tasks into smaller, manageable steps.",
+        "Set specific deadlines and reward yourself for meeting them."
+      ]
+    ],
+    [
+      "Best way to learn coding?",
+      [
+        "Start with Python - it's beginner-friendly!",
+        "Try free platforms like freeCodeCamp or Codecademy.",
+        "Build small projects to practice what you learn."
+      ]
+    ],
+    [
+      "What is AI?",
+      [
+        "AI stands for Artificial Intelligence - machines that can learn.",
+        "It's computer systems performing tasks requiring human intelligence.",
+        "From chatbots to self-driving cars, AI is transforming technology."
+      ]
+    ],
+    [
+      "How to relieve stress?",
+      [
+        "Deep breathing exercises can help immediately.",
+        "Try mindfulness meditation for long-term benefits.",
+        "Physical exercise is one of the most effective stress relievers."
+      ]
+    ],
+    [
+      "When was the internet invented?",
+      [
+        "ARPANET, the precursor to the internet, began in 1969.",
+        "The modern internet emerged in the 1980s-90s.",
+        "Tim Berners-Lee invented the World Wide Web in 1989."
+      ]
+    ],
+    [
+      "How to make coffee without a machine?",
+      [
+        "Try the pour-over method with a filter and hot water.",
+        "French press is simple and makes great coffee.",
+        "Cowboy coffee: boil grounds in water, then let them settle."
+      ]
+    ],
+    [
+      "What causes the seasons?",
+      [
+        "Earth's tilted axis and orbit around the sun create seasons.",
+        "Different parts of Earth get more direct sunlight at different times.",
+        "It's not about distance from the sun, but the axial tilt!"
+      ]
+    ],
+    [
+      "Best pizza toppings?",
+      [
+        "Classic margherita never disappoints!",
+        "Pepperoni is America's favorite for a reason.",
+        "Try something adventurous like prosciutto and arugula."
+      ]
+    ],
+    [
+      "How to improve memory?",
+      [
+        "Regular exercise boosts brain function.",
+        "Try mnemonic devices and spaced repetition.",
+        "Get enough sleep - it's crucial for memory consolidation."
+      ]
+    ],
+    [
+      "What's the meaning of life?",
+      [
+        "42, according to The Hitchhiker's Guide to the Galaxy!",
+        "Many find meaning in relationships and personal growth.",
+        "That's the ultimate question everyone answers differently."
+      ]
+    ],
+    [
+      "How to start a conversation?",
+      [
+        "Ask open-ended questions about the other person.",
+        "Find common ground or comment on your surroundings.",
+        "A genuine compliment is often a great icebreaker."
+      ]
+    ],
+    [
+      "Why is the sky blue?",
+      [
+        "Sunlight scatters more blue light than other colors.",
+        "Rayleigh scattering causes the blue appearance.",
+        "Shorter blue wavelengths scatter in all directions as sunlight enters the atmosphere."
+      ]
+    ],
+    [
+      "How to make friends as an adult?",
+      [
+        "Join clubs or groups with shared interests.",
+        "Say yes to social invitations when possible.",
+        "Be open and consistent - friendships take time to develop."
+      ]
+    ],
+    [
+      "What's the fastest animal?",
+      [
+        "The peregrine falcon can reach 240 mph in a dive!",
+        "Cheetahs are the fastest land animals at 70 mph.",
+        "Sailfish can swim up to 68 mph in short bursts."
+      ]
+    ],
+    [
+      "How to cook perfect rice?",
+      [
+        "Use a 2:1 water-to-rice ratio, bring to boil then simmer.",
+        "Let it rest covered for 10 minutes after cooking.",
+        "Rinsing rice before cooking removes excess starch."
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check a weather app!",
+        "It looks pleasant outside based on general seasonal patterns.",
+        "I recommend checking your local forecast for accurate updates."
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options.",
+        "The exact steps vary by model - check your manufacturer's website.",
+        "Hold power + volume down for 10 seconds to access recovery mode."
+      ]
+    ],
+    [
+      "Tell me a joke!",
+      [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "What do you call fake spaghetti? An impasta!",
+        "I'd tell you a chemistry joke but all the good ones argon."
+      ]
+    ],
+    [
+      "What's 15% of 200?",
+      [
+        "That would be 30.",
+        "The answer is 30.",
+        "15% of 200 equals 30."
+      ]
+    ],
+    [
+      "Recommend a good movie.",
+      [
+        "Inception is a mind-bending sci-fi classic.",
+        "The Shawshank Redemption has amazing reviews.",
+        "Try Parasite for a brilliant thriller with social commentary."
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, cook on low heat while stirring gently.",
+        "Add a splash of milk before whisking for fluffier eggs.",
+        "Season with salt and pepper after cooking for best texture."
+      ]
+    ],
+    [
+      "What time is it?",
+      [
+        "I don't have access to real-time clock data.",
+        "You can check your device's clock for the current time.",
+        "Time to get a watch! (Sorry, I can't tell exact time)."
+      ]
+    ],
+    [
+      "Explain blockchain simply.",
+      [
+        "It's a digital ledger that records transactions securely.",
+        "Think of it as a chain of data blocks that can't be altered.",
+        "A decentralized system where many computers verify transactions."
+      ]
+    ],
+    [
+      "Best way to learn Spanish?",
+      [
+        "Try language apps like Duolingo for daily practice.",
+        "Immersion through movies/music works well for many.",
+        "Consider taking classes with conversation practice."
+      ]
+    ],
+    [
+      "How many continents are there?",
+      [
+        "There are 7 continents by most standards.",
+        "Some systems count 6 (combining Europe and Asia).",
+        "The traditional count is 7: Africa, Antarctica, Asia, Europe, NA, SA, Australia."
+      ]
+    ],
+    [
+      "What causes hiccups?",
+      [
+        "Sudden diaphragm contractions irritate the vocal cords.",
+        "Often from eating too fast or drinking carbonated beverages.",
+        "The exact cause isn't always clear - even scientists debate it!"
+      ]
+    ],
+    [
+      "How to stop procrastinating?",
+      [
+        "Break tasks into smaller, manageable steps.",
+        "Use the Pomodoro technique (25-min focused sessions).",
+        "Remove distractions and set clear deadlines for yourself."
+      ]
+    ],
+    [
+      "Who won the last World Cup?",
+      [
+        "Argentina won the 2022 FIFA World Cup.",
+        "Lionel Messi's Argentina defeated France in Qatar.",
+        "The 2022 champion was Argentina after penalty shootout."
+      ]
+    ],
+    [
+      "Is coffee good for you?",
+      [
+        "In moderation, it has antioxidants and may boost focus.",
+        "Too much can cause jitters - 3-4 cups daily is generally safe.",
+        "Studies show mixed effects - depends on individual health."
+      ]
+    ],
+    [
+      "How does GPS work?",
+      [
+        "Satellites transmit signals that your device uses to triangulate position.",
+        "It calculates distance from multiple satellites to pinpoint location.",
+        "At least 4 satellites are needed for accurate 3D positioning."
+      ]
+    ],
+    [
+      "What's the capital of Canada?",
+      [
+        "Ottawa is Canada's capital city.",
+        "The capital is Ottawa, not Toronto or Montreal.",
+        "Ottawa, located in Ontario, is the official capital."
+      ]
+    ],
+    [
+      "How to unclog a drain?",
+      [
+        "Try a plunger or a mixture of baking soda and vinegar.",
+        "A drain snake can remove deeper blockages.",
+        "For tough clogs, consider calling a professional plumber."
+      ]
+    ],
+    [
+      "Difference between RAM and ROM?",
+      [
+        "RAM is temporary memory, ROM is permanent storage.",
+        "RAM clears when powered off, ROM retains data.",
+        "RAM affects speed, ROM stores firmware/BIOS."
+      ]
+    ],
+    [
+      "Best pizza toppings?",
+      [
+        "Classic pepperoni is always popular!",
+        "Try margherita for simple, fresh flavors.",
+        "Hawaiian (pineapple+ham) divides opinions but has fans!"
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "YouTube has great visual tutorials for this!",
+        "It's easier to learn with the 'four-in-hand' method first.",
+        "Practice the Windsor knot - it's symmetrical and elegant."
+      ]
+    ],
+    [
+      "Why is the sky blue?",
+      [
+        "Sunlight scatters more blue light than other colors.",
+        "Rayleigh scattering makes shorter blue wavelengths dominate.",
+        "The atmosphere filters sunlight to appear blue to our eyes."
+      ]
+    ],
+    [
+      "How often should I exercise?",
+      [
+        "150 minutes of moderate activity weekly is recommended.",
+        "3-5 times per week is ideal for most adults.",
+        "Listen to your body - consistency matters more than frequency."
+      ]
+    ],
+    [
+      "What is AI?",
+      [
+        "Artificial Intelligence simulates human thinking in machines.",
+        "It's computer systems performing tasks requiring human intelligence.",
+        "AI includes machine learning, NLP, and problem-solving algorithms."
+      ]
+    ],
+    [
+      "How to make friends as an adult?",
+      [
+        "Join clubs or groups related to your interests.",
+        "Volunteering is a great way to meet like-minded people.",
+        "Be open to casual conversations at work or community events."
+      ]
+    ],
+    [
+      "Solve 2x + 5 = 15",
+      [
+        "Subtract 5: 2x=10, then divide by 2: x=5.",
+        "The solution is x = 5.",
+        "First isolate x: (15-5)/2 = 5."
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check a weather app!",
+        "It looks pleasant outside based on general seasonal patterns.",
+        "I recommend checking your local forecast for accurate updates."
+      ]
+    ],
+    [
+      "How do I reset my router?",
+      [
+        "Unplug it for 30 seconds and plug it back in.",
+        "Look for a small reset button on the back and hold it for 10 seconds.",
+        "Check your router manual for model-specific instructions."
+      ]
+    ],
+    [
+      "Tell me a fun fact!",
+      [
+        "Honey never spoils - archaeologists have found edible honey in ancient Egyptian tombs!",
+        "Octopuses have three hearts and blue blood.",
+        "The shortest war in history was between Britain and Zanzibar in 1896 - it lasted 38 minutes!"
+      ]
+    ],
+    [
+      "What's 15% of 200?",
+      [
+        "That would be 30.",
+        "The answer is 30.",
+        "15% of 200 equals 30."
+      ]
+    ],
+    [
+      "Recommend a good movie to watch.",
+      [
+        "The Shawshank Redemption is a classic with great reviews.",
+        "Try Everything Everywhere All At Once for something recent and unique.",
+        "For family fun, check out The Princess Bride."
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, melt butter in pan, cook on low heat while stirring.",
+        "Beat eggs with salt, pour into hot pan, stir constantly until set.",
+        "Try adding a splash of milk before whisking for fluffier eggs."
+      ]
+    ],
+    [
+      "What's the capital of Australia?",
+      [
+        "Canberra is Australia's capital city.",
+        "The capital is Canberra.",
+        "Australia's capital is Canberra, not Sydney!"
+      ]
+    ],
+    [
+      "Why is the sky blue?",
+      [
+        "Sunlight scatters more blue light than other colors in our atmosphere.",
+        "It's due to Rayleigh scattering of light by air molecules.",
+        "Blue light waves scatter more easily in Earth's atmosphere."
+      ]
+    ],
+    [
+      "How to calm anxiety?",
+      [
+        "Try deep breathing exercises for 5 minutes.",
+        "Going for a walk can help ground your thoughts.",
+        "The 5-4-3-2-1 sensory technique works for many people."
+      ]
+    ],
+    [
+      "When was the internet invented?",
+      [
+        "ARPANET, the precursor to the internet, launched in 1969.",
+        "Modern internet emerged in the 1980s from earlier networks.",
+        "Tim Berners-Lee invented the World Wide Web in 1989."
+      ]
+    ],
+    [
+      "Best way to learn programming?",
+      [
+        "Start with Python - it's beginner-friendly with great resources.",
+        "Build small projects while learning theory.",
+        "Try free platforms like freeCodeCamp or Codecademy first."
+      ]
+    ],
+    [
+      "How many continents are there?",
+      [
+        "There are 7 continents by most standards.",
+        "7: Africa, Antarctica, Asia, Europe, North America, South America, Australia.",
+        "Some models count 6 by combining Europe and Asia."
+      ]
+    ],
+    [
+      "What's the meaning of life?",
+      [
+        "42, according to The Hitchhiker's Guide to the Galaxy!",
+        "That's philosophy's big question - everyone finds their own answer.",
+        "To seek happiness and make meaningful connections."
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "Try the Four-in-Hand knot - simplest for beginners.",
+        "YouTube has great visual tutorials for different knots.",
+        "The Windsor knot gives a symmetrical, professional look."
+      ]
+    ],
+    [
+      "Difference between VR and AR?",
+      [
+        "VR is fully immersive, AR overlays digital on real world.",
+        "VR needs a headset, AR works through phones/smart glasses.",
+        "VR replaces reality, AR enhances it with digital elements."
+      ]
+    ],
+    [
+      "How to say hello in Spanish?",
+      [
+        "¡Hola! is hello in Spanish.",
+        "The word is 'Hola'.",
+        "Spanish speakers greet with 'Hola'."
+      ]
+    ],
+    [
+      "What causes earthquakes?",
+      [
+        "Tectonic plates shifting suddenly along fault lines.",
+        "Movement in Earth's crust releases seismic energy.",
+        "Built-up stress between plates being released suddenly."
+      ]
+    ],
+    [
+      "Best smartphone for photography?",
+      [
+        "Latest iPhones have excellent computational photography.",
+        "Google Pixel phones are great for AI-enhanced photos.",
+        "Samsung Galaxy S Ultra series offers versatile cameras."
+      ]
+    ],
+    [
+      "How to improve my sleep?",
+      [
+        "Keep consistent sleep/wake times, even on weekends.",
+        "Avoid screens 1 hour before bed and limit caffeine.",
+        "Make your bedroom cool, dark and quiet."
+      ]
+    ],
+    [
+      "Explain blockchain simply.",
+      [
+        "It's a decentralized digital ledger that records transactions.",
+        "Think of it as a shared database no single entity controls.",
+        "Blocks of data chained together securely and transparently."
+      ]
+    ],
+    [
+      "How to make cold brew coffee?",
+      [
+        "Steep coarse grounds in cold water for 12-24 hours, then strain.",
+        "Use a 1:4 coffee-to-water ratio and refrigerate overnight.",
+        "Special cold brew makers simplify the process."
+      ]
+    ],
+    [
+      "What's the fastest animal?",
+      [
+        "Peregrine falcon dives at 240 mph!",
+        "Cheetah is fastest land animal at 70 mph.",
+        "Sailfish swims at 68 mph in water."
+      ]
+    ],
+    [
+      "How to unclog a drain?",
+      [
+        "Try a plunger first before chemicals.",
+        "Mix baking soda and vinegar, then flush with hot water.",
+        "A drain snake can remove deep clogs."
+      ]
+    ],
+    [
+      "When to use 'affect' vs 'effect'?",
+      [
+        "'Affect' is usually a verb, 'effect' is usually a noun.",
+        "Affect = influence, Effect = result.",
+        "The weather affects (v) our plans with an effect (n) on morale."
+      ]
+    ],
+    [
+      "How to start meditating?",
+      [
+        "Begin with just 5 minutes focusing on your breath.",
+        "Apps like Headspace offer guided sessions for beginners.",
+        "Find a quiet spot, sit comfortably, and observe your thoughts."
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check your local forecast!",
+        "It looks pleasant outside based on general seasonal patterns.",
+        "You might want to check a weather app for real-time updates."
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options.",
+        "Hold power and volume down buttons simultaneously for 10 seconds.",
+        "The exact steps vary by model - check your manufacturer's website."
+      ]
+    ],
+    [
+      "Tell me a fun fact.",
+      [
+        "Honey never spoils - archaeologists have found edible honey in ancient tombs!",
+        "Octopuses have three hearts and blue blood.",
+        "Bananas are berries, but strawberries aren't!"
+      ]
+    ],
+    [
+      "What's 15% of 200?",
+      [
+        "That would be 30.",
+        "The answer is 30.",
+        "15% of 200 equals 30."
+      ]
+    ],
+    [
+      "Recommend a good movie.",
+      [
+        "The Shawshank Redemption is a classic with great reviews.",
+        "Recently, Everything Everywhere All At Once was fantastic!",
+        "Try Parasite if you enjoy thought-provoking films."
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, cook on low heat while stirring gently.",
+        "Add a splash of milk before whisking for fluffier eggs.",
+        "Try Gordon Ramsay's method with crème fraîche for creamy eggs."
+      ]
+    ],
+    [
+      "What time is it?",
+      [
+        "I don't have access to real-time clock data.",
+        "You can check your device's clock for the current time.",
+        "Time zones vary - what location are you asking about?"
+      ]
+    ],
+    [
+      "Explain blockchain simply.",
+      [
+        "It's a digital ledger that records transactions across many computers.",
+        "Think of it as a shared database that's nearly impossible to tamper with.",
+        "A chain of data blocks secured by cryptography - like a high-tech receipt system."
+      ]
+    ],
+    [
+      "Best way to learn Spanish?",
+      [
+        "Try language apps like Duolingo for daily practice.",
+        "Immersion through movies, music and conversation works well!",
+        "Consider taking classes or finding a language exchange partner."
+      ]
+    ],
+    [
+      "Why is the sky blue?",
+      [
+        "Sunlight scatters more blue light than other colors in our atmosphere.",
+        "It's called Rayleigh scattering - blue wavelengths get dispersed most.",
+        "The short answer: how air molecules interact with sunlight!"
+      ]
+    ],
+    [
+      "How to stop procrastinating?",
+      [
+        "Try the Pomodoro technique: 25-minute focused work sessions.",
+        "Break tasks into smaller, manageable steps to reduce overwhelm.",
+        "Set specific deadlines and reward yourself for meeting them."
+      ]
+    ],
+    [
+      "What's the capital of Canada?",
+      [
+        "Ottawa is Canada's capital city.",
+        "The capital is Ottawa, not Toronto as many think!",
+        "Canada's government is based in Ottawa."
+      ]
+    ],
+    [
+      "Tips for better sleep?",
+      [
+        "Maintain a consistent sleep schedule, even on weekends.",
+        "Avoid screens 1 hour before bed and keep your room cool/dark.",
+        "Try relaxation techniques like deep breathing before bedtime."
+      ]
+    ],
+    [
+      "Difference between VR and AR?",
+      [
+        "VR is fully immersive, AR overlays digital on real world.",
+        "Virtual Reality replaces your view, Augmented Reality adds to it.",
+        "VR needs a headset, AR can work through phone cameras."
+      ]
+    ],
+    [
+      "How many continents are there?",
+      [
+        "Most commonly taught as 7: Africa, Antarctica, Asia, Europe, N America, S America, Australia.",
+        "Some models count 6 by combining Europe and Asia as Eurasia.",
+        "It depends on the geographical model - answers vary from 5 to 7!"
+      ]
+    ],
+    [
+      "Best smartphone for photography?",
+      [
+        "Recent iPhones and Google Pixels have excellent cameras.",
+        "The Samsung Galaxy S Ultra series is great for photography.",
+        "Consider the Sony Xperia series for manual camera controls."
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "Try the classic Windsor knot: cross wide end over narrow, then under and through.",
+        "YouTube has great visual tutorials for different tie knots!",
+        "The Four-in-Hand is the simplest knot for beginners."
+      ]
+    ],
+    [
+      "What causes earthquakes?",
+      [
+        "Movement of tectonic plates along fault lines.",
+        "Sudden release of energy in Earth's lithosphere creates seismic waves.",
+        "Most quakes occur at plate boundaries where plates collide or slide."
+      ]
+    ],
+    [
+      "Easy dinner recipes?",
+      [
+        "Pasta aglio e olio: just garlic, oil, pasta and chili flakes.",
+        "Sheet pan dinners with veggies and protein are simple.",
+        "Try a 15-minute stir fry with frozen vegetables and tofu."
+      ]
+    ],
+    [
+      "How does GPS work?",
+      [
+        "Satellites transmit signals that your device uses to calculate position.",
+        "It triangulates your location using timing signals from multiple satellites.",
+        "A network of 24+ satellites orbiting Earth enable precise location tracking."
+      ]
+    ],
+    [
+      "Fun weekend activities?",
+      [
+        "Visit a local museum or art exhibition you haven't seen.",
+        "Try geocaching - it's like a real-world treasure hunt!",
+        "Have a game night with friends or family."
+      ]
+    ],
+    [
+      "What is AI?",
+      [
+        "Artificial Intelligence simulates human intelligence in machines.",
+        "It's computer systems performing tasks normally requiring human cognition.",
+        "AI includes everything from chatbots to self-driving cars."
+      ]
+    ],
+    [
+      "How to improve posture?",
+      [
+        "Set reminders to check your posture throughout the day.",
+        "Try yoga or exercises that strengthen your core muscles.",
+        "Consider ergonomic furniture and proper screen height at your desk."
+      ]
+    ],
+    [
+      "When was the internet invented?",
+      [
+        "ARPANET, the precursor to the internet, launched in 1969.",
+        "The modern internet began developing in the 1980s-90s.",
+        "Tim Berners-Lee invented the World Wide Web in 1989 - a key milestone."
+      ]
+    ],
+    [
+      "Best way to save money?",
+      [
+        "Automate transfers to savings right after payday.",
+        "Try the 50/30/20 rule: needs/wants/savings split.",
+        "Track all expenses for a month to identify spending patterns."
+      ]
+    ],
+    [
+      "What's the weather like today?",
+      [
+        "I don't have live weather data, but you can check your local forecast!",
+        "It looks pleasant outside based on general seasonal patterns.",
+        "I recommend checking a weather app for real-time updates."
+      ]
+    ],
+    [
+      "How do I reset my phone?",
+      [
+        "Go to Settings > System > Reset options.",
+        "The exact steps vary by brand - check your manufacturer's website.",
+        "Make sure to back up your data first!"
+      ]
+    ],
+    [
+      "What's a good movie to watch?",
+      [
+        "The Shawshank Redemption is a classic!",
+        "Try Everything Everywhere All At Once for something unique.",
+        "What genre do you prefer? I can suggest based on that."
+      ]
+    ],
+    [
+      "Solve 5x + 3 = 18",
+      [
+        "x = 3",
+        "Subtract 3 from both sides first: 5x = 15",
+        "The solution is x equals three."
+      ]
+    ],
+    [
+      "Best way to learn programming?",
+      [
+        "Start with Python - it's beginner-friendly!",
+        "Try interactive platforms like Codecademy.",
+        "Build small projects to practice regularly."
+      ]
+    ],
+    [
+      "How to make scrambled eggs?",
+      [
+        "Whisk eggs, cook on low heat while stirring.",
+        "Add a bit of milk for fluffier eggs!",
+        "Season with salt and pepper after cooking."
+      ]
+    ],
+    [
+      "What time is it?",
+      [
+        "I don't have real-time clock access.",
+        "Check your device's clock for accurate time.",
+        "It's time for a break! (Sorry, I can't tell exact time)"
+      ]
+    ],
+    [
+      "Tell me a fun fact",
+      [
+        "Honey never spoils!",
+        "Octopuses have three hearts.",
+        "Bananas are berries, but strawberries aren't."
+      ]
+    ],
+    [
+      "How to relieve stress?",
+      [
+        "Try deep breathing exercises.",
+        "A short walk can work wonders.",
+        "Listening to music often helps."
+      ]
+    ],
+    [
+      "What's the capital of Canada?",
+      [
+        "Ottawa",
+        "The capital is Ottawa, not Toronto!",
+        "Canada's capital city is Ottawa."
+      ]
+    ],
+    [
+      "Recommend a healthy breakfast",
+      [
+        "Oatmeal with fruits and nuts.",
+        "Greek yogurt with granola.",
+        "Avocado toast with eggs."
+      ]
+    ],
+    [
+      "How does AI work?",
+      [
+        "AI learns patterns from large amounts of data.",
+        "It uses algorithms to make predictions.",
+        "There are different types - machine learning is common."
+      ]
+    ],
+    [
+      "Best travel destination?",
+      [
+        "Japan has amazing culture and food!",
+        "Italy for history and architecture.",
+        "Depends on your interests - beaches, cities, or nature?"
+      ]
+    ],
+    [
+      "Convert 100°F to Celsius",
+      [
+        "About 37.8°C",
+        "100°F is roughly 38°C.",
+        "The formula is (F-32)*5/9 = 37.78°C"
+      ]
+    ],
+    [
+      "How to tie a tie?",
+      [
+        "Look up 'four-in-hand knot' tutorial.",
+        "YouTube has great visual guides!",
+        "Practice with the wide end longer than the narrow."
+      ]
+    ],
+    [
+      "What causes earthquakes?",
+      [
+        "Tectonic plates shifting suddenly.",
+        "Movement along fault lines in Earth's crust.",
+        "Built-up pressure being released underground."
+      ]
+    ],
+    [
+      "How to improve sleep quality?",
+      [
+        "Keep a consistent sleep schedule.",
+        "Avoid screens before bedtime.",
+        "Make your bedroom dark and cool."
+      ]
+    ],
+    [
+      "Explain blockchain simply",
+      [
+        "It's a secure digital ledger system.",
+        "Like a shared database that can't be altered.",
+        "Records transactions in linked 'blocks'."
+      ]
+    ],
+    [
+      "Good books to read?",
+      [
+        "Sapiens by Yuval Noah Harari.",
+        "The Alchemist is inspiring!",
+        "Depends - fiction or non-fiction?"
+      ]
+    ],
+    [
+      "How to say hello in Spanish?",
+      [
+        "¡Hola!",
+        "Hello in Spanish is 'Hola'.",
+        "The simplest greeting is 'Hola'."
+      ]
+    ],
+    [
+      "Why is the sky blue?",
+      [
+        "Sunlight scatters off air molecules.",
+        "Blue light scatters more than other colors.",
+        "It's called Rayleigh scattering!"
+      ]
+    ],
+    [
+      "Best way to save money?",
+      [
+        "Track your spending first.",
+        "Try the 50/30/20 budget rule.",
+        "Automate transfers to savings."
+      ]
+    ],
+    [
+      "How to make coffee without a machine?",
+      [
+        "Use a French press if available.",
+        "Try the 'cowboy method' - boil grounds then settle.",
+        "Instant coffee is the simplest way."
+      ]
+    ],
+    [
+      "What's photosynthesis?",
+      [
+        "Plants convert sunlight to energy.",
+        "Process using CO2, water and light.",
+        "How plants make their own food."
+      ]
+    ],
+    [
+      "Tips for public speaking?",
+      [
+        "Practice out loud beforehand.",
+        "Focus on breathing to stay calm.",
+        "Make eye contact with friendly faces."
+      ]
+    ],
+    [
+      "Easy dinner ideas?",
+      [
+        "Pasta with jarred sauce and salad is quick and easy!",
+        "Try sheet pan dinners - protein and veggies roasted together.",
+        "Stir-fries come together fast with pre-cut veggies and store-bought sauce."
+      ]
+    ],
+    [
+      "How to speed up my computer?",
+      [
+        "Try clearing cache and temporary files first.",
+        "Adding more RAM often helps with performance!",
+        "Make sure you don't have too many startup programs running."
+      ]
+    ],
+    [
+      "Explain quantum computing simply.",
+      [
+        "It's like regular computing but using quantum bits that can be 0 and 1 simultaneously!",
+        "Imagine a computer that can explore many possibilities at once - that's quantum!",
+        "Traditional bits are light switches (on/off), quantum bits are dimmers."
+      ]
+    ],
+    [
+      "Best free photo editing app?",
+      [
+        "Snapseed offers powerful tools for mobile editing!",
+        "GIMP is great free alternative to Photoshop for computers.",
+        "Canva has user-friendly editing features for quick fixes!"
+      ]
+    ],
+    [
+      "What is machine learning?",
+      [
+        "AI that improves automatically through experience with data!",
+        "Algorithms that learn patterns without explicit programming.",
+        "Teaching computers to learn from examples like humans do!"
+      ]
+    ],
+    [
+      "How do airplanes fly?",
+      [
+        "Wing shape creates lift as air moves faster over the top surface!",
+        "Bernoulli's principle explains the pressure difference that lifts planes.",
+        "Four forces: lift vs. gravity, thrust vs. drag - balance equals flight!"
+      ]
+    ],
+    [
+      "Easy dinner recipes",
+      [
+        "One-pan roasted chicken and veggies is simple and delicious!",
+        "Pasta with garlic, olive oil and veggies comes together in 20 minutes."
+      ]
+    ],
+    [
+      "Easy dinner recipe?",
+      [
+        "Pasta aglio e olio: just garlic, oil, and pasta!",
+        "Try a stir-fry with whatever veggies you have on hand."
+      ]
+    ],
+    [
+      "How to screenshot on Windows?",
+      [
+        "Press PrtScn key or Win+Shift+S for snipping tool.",
+        "Alt+PrtScn captures just the active window."
+      ]
+    ],
+    [
+      "How do I make scrambled eggs?",
+      [
+        "Whisk eggs, add salt/pepper, and cook on low heat while stirring.",
+        "For fluffier eggs, add a splash of milk before whisking and cooking.",
+        "Beat eggs, pour into a hot pan, and stir constantly until set."
+      ]
+    ],
+    [
+      "Explain quantum computing simply.",
+      [
+        "It uses qubits to process info faster than regular computers for specific tasks.",
+        "Think of it like a super-powered computer that leverages quantum physics.",
+        "Traditional bits are 0/1; qubits can be both at once, enabling complex calculations."
+      ]
+    ],
+    [
+      "How can I improve my sleep?",
+      [
+        "Avoid screens before bed and stick to a consistent sleep schedule.",
+        "Try relaxation techniques like reading or meditation in the evening.",
+        "Limit caffeine after noon and keep your bedroom cool/dark."
+      ]
+    ],
+    [
+      "What's the best way to learn coding?",
+      [
+        "Start with free platforms like Codecademy or freeCodeCamp.",
+        "Pick a language (e.g., Python), build small projects, and practice daily.",
+        "Join coding communities and tackle real-world problems step by step."
+      ]
+    ],
+    [
+      "How far is the Moon from Earth?",
+      [
+        "About 238,855 miles (384,400 km) on average.",
+        "Roughly 30 Earths could fit between the Earth and Moon!",
+        "It varies, but the average distance is nearly 239,000 miles."
+      ]
+    ],
+    [
+      "Suggest a healthy breakfast.",
+      [
+        "Oatmeal with berries and nuts is a great choice!",
+        "Try avocado toast with a poached egg for protein and fats.",
+        "Greek yogurt with honey and granola is quick and nutritious."
+      ]
+    ],
+    [
+      "How do I unclog a sink?",
+      [
+        "Pour boiling water followed by baking soda and vinegar.",
+        "Use a plunger or a drain snake to remove the blockage.",
+        "Try a mixture of salt, baking soda, and hot water—let it sit before flushing."
+      ]
+    ],
+    [
+      "What's the tallest mountain in the world?",
+      [
+        "Mount Everest, at 29,032 feet (8,849 meters) above sea level.",
+        "Everest is the highest, but Hawaii’s Mauna Kea is taller from base to peak underwater.",
+        "Mount Everest in the Himalayas holds the record!"
+      ]
+    ],
+    [
+      "Is coffee bad for health?",
+      [
+        "In moderation, coffee has antioxidants and may boost energy.",
+        "Too much can cause jitters—stick to 3-4 cups max per day.",
+        "It’s fine for most people, but avoid excess if you’re sensitive to caffeine."
+      ]
+    ],
+    [
+      "How do I screenshot on a Mac?",
+      [
+        "Press Command + Shift + 3 for full screen, or 4 to select an area.",
+        "Use Command + Shift + 4, then drag to capture a portion.",
+        "Find screenshot tools in the Applications > Utilities folder."
+      ]
+    ],
+    [
+      "What causes thunderstorms?",
+      [
+        "Warm, moist air rises, cools, and creates unstable atmospheric conditions.",
+        "Collisions between ice particles in clouds generate electrical charges.",
+        "They form from cumulonimbus clouds due to rapid upward air movement."
+      ]
+    ],
+    [
+      "Recommend a book for beginners in investing.",
+      [
+        "The Intelligent Investor by Benjamin Graham is a classic!",
+        "Try A Random Walk Down Wall Street for a broad overview.",
+        "Rich Dad Poor Dad offers simple financial principles."
+      ]
+    ],
+    [
+      "How do I reduce stress?",
+      [
+        "Practice deep breathing, exercise, or take short breaks during work.",
+        "Mindfulness meditation or journaling can help manage stress.",
+        "Prioritize tasks, delegate, and ensure you get enough sleep."
+      ]
+    ],
+    [
+      "What's the fastest animal on land?",
+      [
+        "The cheetah, reaching speeds up to 70 mph (113 km/h)!",
+        "Cheetahs can sprint faster than any other land animal.",
+        "It’s the cheetah—built for speed with lightning-fast acceleration."
+      ]
+    ],
+    [
+      "How do I update my Windows OS?",
+      [
+        "Go to Settings > Update & Security > Check for Updates.",
+        "Download the latest version manually from Microsoft’s website.",
+        "Enable automatic updates in Settings to stay current."
+      ]
+    ],
+    [
+      "What's the meaning of 'serendipity'?",
+      [
+        "A fortunate accident or pleasant surprise.",
+        "Finding something valuable without actively searching for it.",
+        "It describes unexpected good luck or happy discoveries."
+      ]
+    ],
+    [
+      "How can I stop procrastinating?",
+      [
+        "Break tasks into smaller steps and set deadlines for each.",
+        "Use the Pomodoro technique: work 25 mins, then take a 5-min break.",
+        "Remove distractions and reward yourself after completing tasks."
+      ]
+    ],
+    [
+      "Explain quantum computing simply",
+      [
+        "It uses qubits that can be 0, 1, or both at once (superposition).",
+        "Think of it like parallel universes computing simultaneously.",
+        "Traditional bits are light switches (on/off), qubits are dimmer switches."
+      ]
+    ],
+    [
+      "What's the boiling point of water?",
+      [
+        "100°C or 212°F at sea level.",
+        "It varies with altitude - lower in mountains.",
+        "Exactly 100°C at standard atmospheric pressure."
+      ]
+    ],
+    [
+      "What is machine learning?",
+      [
+        "AI that improves automatically through experience.",
+        "Algorithms that learn patterns from data without explicit programming.",
+        "Like teaching computers to learn like humans do from examples."
+      ]
+    ],
+    [
+      "Explain quantum computing simply.",
+      [
+        "It's computing using quantum bits that can be 0 and 1 simultaneously.",
+        "Think of it like being able to try all possible solutions at once instead of one by one.",
+        "It harnesses quantum physics to perform calculations much faster for certain problems."
+      ]
+    ],
+    [
+      "Convert 50 Fahrenheit to Celsius.",
+      [
+        "That's 10 degrees Celsius.",
+        "The conversion gives you 10°C.",
+        "Subtract 32 then multiply by 5/9: (50-32)*5/9 = 10°C."
+      ]
+    ],
+    [
+      "How to stop snoring?",
+      [
+        "Try sleeping on your side instead of your back.",
+        "Nasal strips or allergy medication might help if congestion is the cause.",
+        "Avoid alcohol before bed as it relaxes throat muscles more."
+      ]
+    ],
+    [
+      "How to improve my WiFi signal?",
+      [
+        "Move your router to a central location away from obstructions.",
+        "Try changing the WiFi channel in your router settings.",
+        "A WiFi extender can boost signal to distant areas of your home."
+      ]
+    ],
+    [
+      "What is the Pythagorean theorem?",
+      [
+        "a² + b² = c² for right triangles, where c is the hypotenuse.",
+        "It relates the lengths of sides in a right triangle.",
+        "The square of the hypotenuse equals the sum of squares of the other two sides."
+      ]
+    ],
+    [
+      "How often should I water my plants?",
+      [
+        "Most houseplants need water when the top inch of soil is dry.",
+        "It depends on the plant type - succulents need less than tropical plants.",
+        "Generally once a week, but check soil moisture as overwatering is common."
+      ]
+    ],
+    [
+      "Best free photo editing apps?",
+      [
+        "Snapseed and GIMP are powerful free options.",
+        "Canva is great for quick edits and designs.",
+        "For mobile, try Adobe Lightroom's free version."
+      ]
+    ]
+  ]
+}
