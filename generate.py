@@ -4,7 +4,7 @@ import re
 import os
 
 # DeepSeek API 密钥
-deepseek_api_key = 'sk-0342d7b93b4b4180874b96b42830a1f3'  # 替换为你的有效API密钥
+deepseek_api_key = ''  # 替换为你的有效API密钥
 client = OpenAI(
     api_key=deepseek_api_key,
     base_url="https://api.deepseek.com/v1"
@@ -17,14 +17,37 @@ def generate_deepseek_corpus(num_conversations=50):
         all_conversations = []
         for batch in range(0, num_conversations, batch_size):
             current_batch = min(batch_size, num_conversations - batch)
+            # prompt = f"""
+            # Generate {current_batch} pairs of user questions and chatbot answers in English for a general-purpose chatbot.
+            # Cover diverse topics like daily life, technology, entertainment, and math queries.
+            # For each question, provide exactly 3 possible answers to allow multiple response options.
+            # Return the result in JSON format with a "conversations" key, where each conversation is an array of [user question, [answer1, answer2, answer3]].
+            # Example format: {{"conversations": [["What's the weather like?", ["It's sunny today!", "I don't have real-time data", "Looks like a great day!"]], ...]}}
+            # Ensure responses are concise, natural, and varied. Avoid markdown formatting.
+            # """
             prompt = f"""
-            Generate {current_batch} pairs of user questions and chatbot answers in English for a general-purpose chatbot.
-            Cover diverse topics like daily life, technology, entertainment, and math queries.
-            For each question, provide exactly 3 possible answers to allow multiple response options.
-            Return the result in JSON format with a "conversations" key, where each conversation is an array of [user question, [answer1, answer2, answer3]].
-            Example format: {{"conversations": [["What's the weather like?", ["It's sunny today!", "I don't have real-time data", "Looks like a great day!"]], ...]}}
-            Ensure responses are concise, natural, and varied. Avoid markdown formatting.
+            You are an intelligent AI assistant designed to help users in various practical scenarios.
+
+            Generate {current_batch} dialogue pairs between a user and the assistant. Each user question should sound like a natural request for help, advice, or information. The assistant should respond professionally, concisely, and helpfully.
+
+            Topics should include:
+            - Productivity and daily planning (e.g., scheduling, prioritizing)
+            - Technology support (e.g., coding help, app usage)
+            - Everyday problem solving (e.g., how-to questions)
+            - Learning and education (e.g., studying tips, summaries)
+            - Simple reasoning or explanations (e.g., math or logic)
+
+            For each question, provide exactly 3 varied but reasonable assistant replies to simulate multi-option responses.
+
+            Return the result as JSON with a top-level "conversations" key.
+            Each item should be a list of: [user question, [answer1, answer2, answer3]].
+
+            Example format:
+            {{"conversations": [["How can I stay focused while studying?", ["Try the Pomodoro technique.", "Limit distractions and set clear goals.", "Use a study timer app to keep on track."]]}}
+
+            Avoid markdown or formatting characters. Ensure all responses are clear, useful, and sound like a capable assistant.
             """
+
             
             response = client.chat.completions.create(
                 model="deepseek-chat",
@@ -63,7 +86,7 @@ def save_json_file(data, file_path):
 
 def main():
     # 生成对话数据
-    num_conversations = 500  # 生成500个对话
+    num_conversations = 50  # 生成50个对话
     corpus = generate_deepseek_corpus(num_conversations)
     
     # 保存到文件
