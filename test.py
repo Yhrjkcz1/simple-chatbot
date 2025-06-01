@@ -1,21 +1,12 @@
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 import json
-from openai import OpenAI
-import re
 import random
 import os
 import logging
 
 # 禁用 ChatterBot 的详细日志
 logging.getLogger('chatterbot').setLevel(logging.WARNING)
-
-# === DeepSeek API 密钥 ===
-deepseek_api_key = 'sk-0342d7b93b4b4180874b96b42830a1f3'  # 请替换为你的有效API密钥
-client = OpenAI(
-    api_key=deepseek_api_key,
-    base_url="https://api.deepseek.com/v1"
-)
 
 # 自定义逻辑适配器以支持多回答选择
 from chatterbot.logic import LogicAdapter
@@ -33,46 +24,6 @@ class MultiResponseAdapter(LogicAdapter):
         response = Statement(text=response_text)
         response.confidence = 1.0
         return response
-
-def generate_deepseek_corpus(num_conversations=50):
-    try:
-        batch_size = 25
-        all_conversations = []
-        for batch in range(0, num_conversations, batch_size):
-            current_batch = min(batch_size, num_conversations - batch)
-            prompt = f"""
-            Generate {current_batch} pairs of user questions and chatbot answers in English for a general-purpose chatbot.
-            Cover diverse topics like daily life, technology, entertainment, and math queries.
-            For each question, provide 2-3 possible answers to allow multiple response options.
-            Return the result in JSON format with a "conversations" key, where each conversation is an array of [user question, [answer1, answer2, ...]].
-            Example format: {{"conversations": [["What's the weather like?", ["It's sunny today!", "I don't have real-time data, but check a weather app!", "Looks like a great day!"]]}}
-            Ensure responses are concise, natural, and varied. Avoid markdown formatting.
-            """
-            response = client.chat.completions.create(
-                model="deepseek-chat",
-                messages=[{"role": "user", "content": prompt}],
-                max_tokens=4000
-            )
-            
-            content = response.choices[0].message.content
-            json_match = re.search(r'({.*})', content, re.DOTALL)
-            if not json_match:
-                raise ValueError(f"No JSON found in response for batch {batch//batch_size + 1}")
-            
-            corpus = json.loads(json_match.group(1))
-            
-            if not isinstance(corpus, dict) or 'conversations' not in corpus:
-                raise ValueError(f"Invalid JSON structure in batch {batch//batch_size + 1}: missing 'conversations' key")
-                
-            all_conversations.extend(corpus['conversations'])
-        
-        if len(all_conversations) < num_conversations:
-            print(f"Warning: Requested {num_conversations} conversations, got {len(all_conversations)}")
-            
-        return {"conversations": all_conversations}
-    except Exception as e:
-        print(f"[DeepSeek Error] {str(e)}")
-        return {"conversations": []}
 
 def load_json_file(file_path):
     try:
@@ -94,7 +45,7 @@ def save_json_file(data, file_path):
     except Exception as e:
         print(f"Error saving {file_path}: {str(e)}")
 
-def append_deepseek_to_custom(deepseek_file='deepseek_corpus.json', custom_file='custom_conversations.json'):
+def append_deepseek_to_custom(deepseek_file='deepseek_corpus1.json', custom_file='conversations.json'):
     # 加载 DeepSeek 语料
     deepseek_conversations = load_json_file(deepseek_file)
     
@@ -172,21 +123,14 @@ list_trainer = ListTrainer(chatbot, show_training_progress=False)
 # 追加 DeepSeek 语料到自定义语料并清空 DeepSeek 文件
 custom_conversations = append_deepseek_to_custom('deepseek_corpus.json', 'custom_conversations.json')
 
-# 生成新的 DeepSeek 语料（可选）
-generate_new_corpus = True  # 设置为 True 以生成新的 20 个对话
-if generate_new_corpus:
-    deepseek_corpus = generate_deepseek_corpus(num_conversations=20)
-    save_json_file(deepseek_corpus['conversations'], 'deepseek_corpus.json')
-else:
-    deepseek_corpus = {"conversations": load_json_file('deepseek_corpus.json')}
-
 # 训练自定义对话
 if custom_conversations:
     train_conversations(custom_conversations, "custom")
 
-# 训练 DeepSeek 生成的对话
-if deepseek_corpus['conversations']:
-    train_conversations(deepseek_corpus['conversations'], "DeepSeek")
+# 训练 DeepSeek 语料（如果存在）
+deepseek_conversations = load_json_file('deepseek_corpus.json')
+if deepseek_conversations:
+    train_conversations(deepseek_conversations, "DeepSeek")
 
 # 交互循环
 if __name__ == '__main__':
