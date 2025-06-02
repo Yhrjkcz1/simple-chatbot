@@ -1,7 +1,9 @@
-[
+{
+    "conversations": [
     ["Hello", ["Hi there!", "Hello!", "Hey!"]],
     ["How are you?", ["I'm doing well, thank you!", "Great, how about you?", "Feeling good!"]],
     ["What's your name?", ["I'm a chatbot created by you.", "You can call me EnglishBot."]],
     ["Tell me a joke", ["Why did the computer show up at work late? It had a hard drive!", "I would tell you a UDP joke, but you might not get it."]],
     ["Goodbye", ["See you later!", "Bye!", "Take care!"]]
-]
+    ]
+}
